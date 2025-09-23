@@ -12,9 +12,16 @@ weight: 1
 
 ## Các nhóm khái niệm
 
-- [I. Quy luật](quy-luật/)
+- [1. Vũ trụ quan - Thế giới quan - Nhân sinh quan](vu-tru-quan-the-gioi-quan-nhan-sinh-quan/)
+- [2. Công đức - Phước đức](cong-duc-phuoc-duc/)
+- [3. Quảng bá](quang-ba/)
+
+
+<!-- - [I. Quy luật](quy-luật/)
 - [II. Nguyên lý](nguyên-lý/) 
-- [III. Bảy sự giàu toàn diện](bay-su-giau-toan-dien/)
+- [III. Bảy sự giàu toàn diện](bay-su-giau-toan-dien/) -->
+
+
 <!-- - [III. Chìa khoá](chìa-khoá/) (2 khái niệm)
 - [IV. Công thức](công-thức/) (4 khái niệm)
 - [IX. Năng lực](năng-lực/) (11 khái niệm)
