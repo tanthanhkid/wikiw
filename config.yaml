@@ -160,6 +160,9 @@ outputs:
   taxonomy:
     - HTML
     - RSS
+  taxonomyTerm:
+    - HTML
+    - RSS
 
 # Cấu hình permalinks
 permalinks:
