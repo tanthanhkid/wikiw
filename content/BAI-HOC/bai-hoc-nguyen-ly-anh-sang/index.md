@@ -90,7 +90,7 @@ Chuyển hóa là quy luật cơ bản trong phát triển nội tâm, thể hi�
 <table style="border-collapse: collapse; width: 100%; text-align: center; font-family: Arial, sans-serif;">
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-      <a href="\" style="text-decoration: none; color: blue; font-weight: bold;">ÁNH SÁNG</a>
+      <a href="../../TU-KHAINIEM/nguyen-ly-anh-sang/" style="text-decoration: none; color: blue; font-weight: bold;">ÁNH SÁNG</a>
     </td>
     <td style="border: 1px solid black; padding: 8px;">
       <a href="\" style="text-decoration: none; color: blue; font-weight: bold;">BÓNG TỐI</a>
@@ -99,7 +99,7 @@ Chuyển hóa là quy luật cơ bản trong phát triển nội tâm, thể hi�
       <a href="\" style="text-decoration: none; color: blue; font-weight: bold;">PHÒNG TỐI</a>
     </td>
     <td style="border: 1px solid black; padding: 8px;">
-      <a href="\" style="text-decoration: none; color: blue; font-weight: bold;">NỘI TÂM</a>
+      <a href="../../TU-KHAINIEM/lam-chu-noi-tam/" style="text-decoration: none; color: blue; font-weight: bold;">NỘI TÂM</a>
     </td>
     <td style="border: 1px solid black; padding: 8px;">
       <a href="\" style="text-decoration: none; color: blue; font-weight: bold;">SỨC KHỎE</a>
@@ -107,7 +107,7 @@ Chuyển hóa là quy luật cơ bản trong phát triển nội tâm, thể hi�
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-      <a href="\" style="text-decoration: none; color: blue; font-weight: bold;">MỐI QUAN HỆ</a>
+      <a href="../../TU-KHAINIEM/moi-quan-he/" style="text-decoration: none; color: blue; font-weight: bold;">MỐI QUAN HỆ</a>
     </td>
     <td style="border: 1px solid black; padding: 8px;">
       <a href="\" style="text-decoration: none; color: blue; font-weight: bold;">TÀI CHÍNH</a>

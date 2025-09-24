@@ -15,10 +15,26 @@ weight: 1
 - [1. Vũ trụ quan - Thế giới quan - Nhân sinh quan](vu-tru-quan-the-gioi-quan-nhan-sinh-quan/)
 - [2. Công đức - Phước đức](cong-duc-phuoc-duc/)
 - [3. Quảng bá](quang-ba/)
+- [4. Quy luật](quy-luat/)
+- [5. Nguyên lý](nguyên-lý/) 
+- [6. 7 sự giàu toàn diện](7-su-giau-toan-dien/) 
+- [7. Vật chất](vat-chat/) 
+- [8. Phi vật chất](phi-vat-chat/) 
+- [9. Bài học - Tâm đắc - Ngộ ra](bai-hoc-tam-dac-ngo-ra/) 
+- [10. Cách ấm vô minh](cach-am-vo-minh/) 
+- [11. Tổng nghiệp - Tổng nghiệp thức- Tổng nghiệp duyên - Tổng nghiệp quả](tong-nghiep-thuc-duyen-qua/)
+- [12. Ngộ](ngo/)
+- [13. Tiểu ngộ](tieu-ngo/)
+- [14. Đại ngộ](dai-ngo/)
+- [15. Đốn ngộ](don-ngo/)
+- [16. Triệt ngộ](triet-ngo/)
+- [17. Giác ngộ](giac-ngo/)
+- [18. Mong muốn](mong-muon/)
+- [19. tich-cuc](tich-cuc)
+- [20. tieu-cuc](tieu-cuc/)
 
 
 <!-- - [I. Quy luật](quy-luật/)
-- [II. Nguyên lý](nguyên-lý/) 
 - [III. Bảy sự giàu toàn diện](bay-su-giau-toan-dien/) -->
 
 
