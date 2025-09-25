@@ -6,27 +6,12 @@ theme: 'happymarket-theme'
 defaultContentLanguage: 'vi'
 defaultContentLanguageInSubdir: false
 
-# Cấu hình build
 buildDrafts: false
 buildFuture: false
 buildExpired: false
 enableRobotsTXT: true
 enableGitInfo: false
 
-# Cấu hình section
-params:
-  section:
-    bai-hoc:
-      weight: 10
-      type: "lesson"
-  
-  # Cấu hình content types
-  contentTypes:
-    lesson:
-      weight: 10
-      icon: "book"
-
-# Cấu hình menu
 menu:
   main:
     - identifier: home

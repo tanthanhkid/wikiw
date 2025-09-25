@@ -8,6 +8,13 @@
     {{ end }}
   </header>
 
+  <!-- Section Content from _index.md -->
+  {{ if .Content }}
+  <div class="prose prose-lg max-w-none mb-8">
+    {{ .Content }}
+  </div>
+  {{ end }}
+
   <!-- Lessons Grid -->
   <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
     {{ range .Pages }}

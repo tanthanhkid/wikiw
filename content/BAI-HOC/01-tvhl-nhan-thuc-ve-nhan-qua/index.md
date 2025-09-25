@@ -1,12 +1,11 @@
 ---
 title: "01. TVHL Nhận thức về nhân quả"
-description: ""
+description: "Bài học về quy luật nhân quả trong cuộc sống và cách ứng dụng vào phát triển bản thân"
 date: 2025-09-25
 draft: false
 tags: ["bài-học", "admin-created"]
 categories: ["bai-hoc"]
 weight: 10
-type: "page"
 tableOfContents: true
 lesson:
   sources:

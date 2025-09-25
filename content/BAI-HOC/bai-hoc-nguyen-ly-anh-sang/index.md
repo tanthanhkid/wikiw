@@ -1,12 +1,11 @@
 ---
 title: "02. TVHL Nguyên lý ánh sáng"
-description: "Bài học được tạo từ 3 nguồn: Hình nguyên lý ánh sáng,  Ánh sáng, Nguyên lý ánh sáng"
+description: "Bài học được tạo từ 3 nguồn: Hình nguyên lý ánh sáng, Ánh sáng, Nguyên lý ánh sáng"
 date: 2025-09-22
 draft: false
 tags: ["bài-học", "admin-created"]
 categories: ["bai-hoc"]
 weight: 10
-type: "page"
 tableOfContents: true
 lesson:
   sources:
