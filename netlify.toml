@@ -6,6 +6,9 @@
   HUGO_VERSION = "0.100.0"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
+  HUGO_BUILD_DRAFTS = "false"
+  HUGO_BUILD_FUTURE = "false"
+  HUGO_BUILD_EXPIRED = "false"
 
 # Sitemap
 [[redirects]]

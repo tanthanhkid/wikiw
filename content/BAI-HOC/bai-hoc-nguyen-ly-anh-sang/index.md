@@ -1,5 +1,5 @@
 ---
-title: "02. Bài Học Nguyên Lý Ánh Sáng"
+title: "02. TVHL Nguyên lý ánh sáng"
 description: "Bài học được tạo từ 3 nguồn: Hình nguyên lý ánh sáng,  Ánh sáng, Nguyên lý ánh sáng"
 date: 2025-09-22
 draft: false
