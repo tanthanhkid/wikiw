@@ -33,7 +33,7 @@ menu:
       url: /khai-niem-nguon/
       weight: 30
     - identifier: tu-khainiem
-      name: Từ - Khái niệm
+      name: Từ vựng - Khái niệm
       url: /tu-khainiem/
       weight: 40
     - identifier: hinh

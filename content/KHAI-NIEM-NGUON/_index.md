@@ -12,7 +12,7 @@ weight: 1
 
 ## Các nhóm khái niệm
 
-- [1. Vũ trụ quan - Thế giới quan - Nhân sinh quan](vu-tru-quan-the-gioi-quan-nhan-sinh-quan/)
+<!-- - [1. Vũ trụ quan - Thế giới quan - Nhân sinh quan](vu-tru-quan-the-gioi-quan-nhan-sinh-quan/)
 - [2. Công đức - Phước đức](cong-duc-phuoc-duc/)
 - [3. Quảng bá](quang-ba/)
 - [4. Quy luật](quy-luat/)
@@ -31,7 +31,7 @@ weight: 1
 - [17. Giác ngộ](giac-ngo/)
 - [18. Mong muốn](mong-muon/)
 - [19. tich-cuc](tich-cuc)
-- [20. tieu-cuc](tieu-cuc/)
+- [20. tieu-cuc](tieu-cuc/) -->
 
 
 <!-- - [I. Quy luật](quy-luật/)

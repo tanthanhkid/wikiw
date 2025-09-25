@@ -1,17 +1,13 @@
 ---
-title: "Từ - Khái niệm"
-description: "Danh mục các từ và khái niệm chuyên môn"
+title: "Từ vựng - Khái niệm"
+description: ""
 date: 2024-01-01
 draft: false
 weight: 1
 ---
+<div id="table-container">
 
-# Từ - Khái niệm
-
-Đây là danh mục các từ và khái niệm chuyên môn, được tổ chức theo nhóm khái niệm nguồn.
-
-## Các nhóm từ - khái niệm
-| Khái niệm | Ghi chú |
+| Từ vựng | Khái niệm |
 |------------------|-----------------|
 | [3 Câu hỏi quan trọng trong đời người](3-cau-hoi-quan-trong-trong-doi-nguoi/) | Ai là người quan trọng nhất? Thời điểm nào... |
 | [4 động lực sinh tồn](4-dong-luc-sinh-ton/) | |
@@ -25,32 +21,32 @@ weight: 1
 | [An vui](an-vui/) | An vui là trạng thái nhận thức nội tâm xuất phát từ sự chân thật nơi chính mình, xuất phát từ Nghe - Thấy - Nói... |
 | [Bài học](bai-hoc/) | Bài học là những gì mới mà chúng ta chưa từng học... |
 | [Bài Học - Tâm Đắc - Ngộ Ra](bai-hoc-tam-dac-ngo-ra/) | |
-| [Bao Dung](bao-dung/) | |
+| [Bao Dung](bao-dung/) | Đang trong quá trình bổ sung... |
 | [Bảy sự giàu toàn diện](bay-su-giau-toan-dien/) | Giàu Trí Tuệ, Giàu Tâm Thái, Giàu Nhân Cách, Giàu Phẩm Chất, Giàu Năng Lực, Giàu Thể Chất, Giàu Vật Chất... |
-| [Bệnh](benh/) | |
-| [Biểu Hiện Vật Chất](bieu-hien-vat-chat/) | |
-| [Bố Thí](bo-thi/) | |
-| [Cao nhân](cao-nhan/) | |
+| [Bệnh](benh/) | Đang trong quá trình bổ sung... |
+| [Biểu Hiện Vật Chất](bieu-hien-vat-chat/) | Đang trong quá trình bổ sung... |
+| [Bố Thí](bo-thi/) | Đang trong quá trình bổ sung... |
+| [Cao nhân](cao-nhan/) | Đang trong quá trình bổ sung... |
 | [Cách âm vô minh](cach-am-vo-minh/) | Cách ấm vô minh là một thuật ngữ chỉ việc sau khi con người vào tử cung của người phụ nữ, do tác động của điện từ âm khiến cho tàng thức bị bôi đen... |
-| [Cảnh giới cuộc sống](canh-gioi-cuoc-song/) | |
-| [Chân dung Master Mentor Wit](chan-sung-master-mentor-wit/) | |
-| [Chia sẻ](chia-se/) | |
-| [Chuyên gia](chuyen-gia/) | |
-| [Cần mẫn](can-man/) | |
-| [Chuyển hoá](chuyen-hoa/) | |
-| [Cố định tham tưởng](co-dinh-tham-tuong/) | |
+| [Cảnh giới cuộc sống](canh-gioi-cuoc-song/) | Đang trong quá trình bổ sung... |
+| [Chân dung Master Mentor Wit](chan-sung-master-mentor-wit/) | Đang trong quá trình bổ sung... |
+| [Chia sẻ](chia-se/) | Đang trong quá trình bổ sung... |
+| [Chuyên gia](chuyen-gia/) | Đang trong quá trình bổ sung... |
+| [Cần mẫn](can-man/) | Đang trong quá trình bổ sung... |
+| [Chuyển hoá](chuyen-hoa/) | Đang trong quá trình bổ sung... |
+| [Cố định tham tưởng](co-dinh-tham-tuong/) | Đang trong quá trình bổ sung... |
 | [Con người](con-nguoi/) | Con người - Thông tin hóa: là một thực thể tự nhiên mang đặc tính xã hội, vận hành thống nhất với các quy luật tự nhiên - xã hội... |
-| [Cộng đồng chuyên gia](cong-dong-chuyen-gia/) | |
-| [Công đức](cong-duc/) | |
-| [Cống hiến](cong-hien/) | |
-| [Công thức](cong-thuc/) | |
-| [Công thức đào tạo nhân tài](cong-thuc-dao-tao-nhan-tai/) | |
-| [Công việc](cong-viec/) | |
-| [Cuộc sống ước mơ](cuoc-song-uoc-mo/) | |
-| [Đặc điểm của tài sản lớn](dac-diem-cua-tai-san-lon/) | |
+| [Cộng đồng chuyên gia](cong-dong-chuyen-gia/) | Đang trong quá trình bổ sung... |
+| [Công đức](cong-duc/) | Đang trong quá trình bổ sung... |
+| [Cống hiến](cong-hien/) | Đang trong quá trình bổ sung... |
+| [Công thức](cong-thuc/) | Đang trong quá trình bổ sung... |
+| [Công thức đào tạo nhân tài](cong-thuc-dao-tao-nhan-tai/) | Đang trong quá trình bổ sung... |
+| [Công việc](cong-viec/) | Đang trong quá trình bổ sung... |
+| [Cuộc sống ước mơ](cuoc-song-uoc-mo/) | Đang trong quá trình bổ sung... |
+| [Đặc điểm của tài sản lớn](dac-diem-cua-tai-san-lon/) | Đang trong quá trình bổ sung... |
 | [Đại ngộ](dai-ngo/) | Đại ngộ (cái ngộ lớn): "là 1 thuật ngữ chỉ về những cái ngộ ảnh hưởng đến khía cạnh lớn, tác động đến cuộc đời con người." |
-| [Đam mê](dam-me/) | |
-| [Dẫn dắt](dan-dat/) | |
+| [Đam mê](dam-me/) | Đang trong quá trình bổ sung... |
+| [Dẫn dắt](dan-dat/) | Đang trong quá trình bổ sung... |
 | [Dẻo Dai](deo-dai/) | |
 | [Dân số](dan-so/) | |
 | [Di sản](di-san/) | |
@@ -161,8 +157,99 @@ weight: 1
 | [Nhân cách niềm tin](nhan-cach-niem-tin/) | |
 
 
+</div>
 
 
-## Tổng quan
+<style>
+#table-container table {
+  width: 100%;
+  border-collapse: collapse;
+}
 
-Bộ từ - khái niệm này bao gồm các thuật ngữ chuyên môn, định nghĩa và giải thích các khái niệm quan trọng.
+#table-container th,
+#table-container td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  vertical-align: top;
+}
+
+#table-container th:first-child,
+#table-container td:first-child {
+  width: 220px;           /* set cứng cho cột bên trái */
+  white-space: nowrap;    /* không cho xuống hàng */
+  text-overflow: ellipsis;/* nếu quá dài thì hiện ... */
+  overflow: hidden;
+}
+
+#table-container th:last-child,
+#table-container td:last-child {
+  width: auto;            /* tự động chiếm phần còn lại */
+}
+
+
+
+.pagination {
+  margin-top: 12px;
+  text-align: right;
+}
+
+.pagination button {
+  background: #007bffa8;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  margin: 0 4px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background 0.2s ease;
+}
+
+.pagination button:hover {
+  background: #0056b3;
+}
+
+.pagination span {
+  margin: 0 8px;
+  font-weight: bold;
+  color: #333;
+}
+</style>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  // Lấy bảng gốc
+  const table = document.querySelector("table");
+  const rows = Array.from(table.querySelectorAll("tr")).slice(1); // bỏ header
+  const perPage = 10; // số dòng / trang
+  let currentPage = 1;
+
+  function renderTable(page) {
+    const start = (page - 1) * perPage;
+    const end = start + perPage;
+    const slice = rows.slice(start, end);
+
+    let html = "<table><tr>" + table.querySelector("tr").innerHTML + "</tr>";
+    slice.forEach(r => html += "<tr>" + r.innerHTML + "</tr>");
+    html += "</table>";
+
+    html += `<div class="pagination">
+           <button onclick="changePage(-1)">« Trước</button>
+           <span>Trang ${page} / ${Math.ceil(rows.length / perPage)}</span>
+           <button onclick="changePage(1)">Sau »</button>
+         </div>`;
+
+    document.getElementById("table-container").innerHTML = html;
+  }
+
+  window.changePage = function (delta) {
+    const total = Math.ceil(rows.length / perPage);
+    currentPage = Math.min(Math.max(1, currentPage + delta), total);
+    renderTable(currentPage);
+  };
+
+  // Ẩn bảng gốc và render phân trang
+  table.style.display = "none";
+  renderTable(currentPage);
+});
+</script>
