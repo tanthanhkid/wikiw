@@ -13,7 +13,7 @@ categories: [""]
 **Mã khái niệm:** NT0802  
 **Nhóm:** XVI. Nguyên Lý Ánh Sáng -->
 
-## Trọng Tâm Tri Thức
+## Trọng Điểm Tri Thức
 
 Tầm quan trọng của quy luật - nguyên lý thông qua hình tượng con thuyền trên dòng nước.
 Nguyên Lý Nhị Nguyên.

@@ -80,6 +80,7 @@ Chuyển hóa là quy luật cơ bản trong phát triển nội tâm, thể hi�
            style="width: 100%; height: 200px; object-fit: contain; border-radius: 4px; padding:10px;">
     </div>
   </a>
+  
 </div>
 
 <h2 style="text-align: center; font-weight: bold; font-size: 22px; margin-bottom: 12px;">
@@ -118,5 +119,5 @@ Chuyển hóa là quy luật cơ bản trong phát triển nội tâm, thể hi�
 </table>
 
 
-- [1.Trọng Tâm Tri Thức](../../KHAI-NIEM-NGUON/nguyên-lý/ánh-sáng/trong-tam-tri-thuc)
+- [1.Trọng Điểm Tri Thức](../../KHAI-NIEM-NGUON/nguyên-lý/ánh-sáng/trong-tam-tri-thuc)
 - [2.Trọng Điểm Nhận Thức](../../KHAI-NIEM-NGUON/nguyên-lý/ánh-sáng/trong-diem-nhan-thuc)

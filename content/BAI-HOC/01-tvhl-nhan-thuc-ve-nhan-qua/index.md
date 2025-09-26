@@ -146,5 +146,5 @@ Quảng bá là nhắc đi nhắc lại việc gì mà người khác làm cho m
 </table>
 
 
-- [1.Trọng Tâm Tri Thức](../../KHAI-NIEM-NGUON/tvhl-nhan-thuc-ve-nhan-qua/trong-tam-tri-thuc)
+- [1.Trọng Điểm Tri Thức](../../KHAI-NIEM-NGUON/tvhl-nhan-thuc-ve-nhan-qua/trong-tam-tri-thuc)
 - [2.Trọng Điểm Nhận Thức](../../KHAI-NIEM-NGUON/tvhl-nhan-thuc-ve-nhan-qua/trong-diem-nhan-thuc)

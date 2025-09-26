@@ -50,26 +50,7 @@
     {{ .Content }}
   </div>
 
-  <!-- Lesson Sources Info -->
-  {{ if .Params.lesson.sources }}
-  <div class="mt-12 bg-gray-50 rounded-lg p-6">
-    <h3 class="text-lg font-semibold text-gray-900 mb-4">Nguồn kiến thức</h3>
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-      <div class="bg-white rounded-lg p-4">
-        <h4 class="font-medium text-blue-900 mb-2">Hình ảnh</h4>
-        <p class="text-sm text-gray-600">ID: {{ .Params.lesson.sources.hinh }}</p>
-      </div>
-      <div class="bg-white rounded-lg p-4">
-        <h4 class="font-medium text-green-900 mb-2">Khái niệm nguồn</h4>
-        <p class="text-sm text-gray-600">ID: {{ .Params.lesson.sources.khaiNiem }}</p>
-      </div>
-      <div class="bg-white rounded-lg p-4">
-        <h4 class="font-medium text-purple-900 mb-2">Từ - Khái niệm</h4>
-        <p class="text-sm text-gray-600">ID: {{ .Params.lesson.sources.tuKhaiNiem }}</p>
-      </div>
-    </div>
-  </div>
-  {{ end }}
+  
 
   <!-- Navigation -->
   <div class="mt-12 flex justify-between items-center">

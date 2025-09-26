@@ -105,7 +105,8 @@
         <!-- Sidebar -->
         <aside class="hidden lg:block w-64 bg-gray-50 border-r border-gray-200 min-h-screen sticky top-16">
             <div class="p-6">
-                <!-- Search -->
+                <!-- Search - Only show on bai-hoc pages -->
+                {{ if eq .Section "bai-hoc" }}
                 <div class="mb-6">
                     <div class="relative">
                         <input type="text" placeholder="Tìm kiếm..." class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-orange-500 focus:border-transparent">
@@ -114,9 +115,12 @@
                         </svg>
                     </div>
                 </div>
+                {{ end }}
                 
-                <!-- Table of Contents -->
+                <!-- Table of Contents - Only show on bai-hoc pages -->
+                {{ if eq .Section "bai-hoc" }}
                 {{ partial "toc.html" . }}
+                {{ end }}
                 
                 <!-- Quick Navigation for Khái niệm nguồn -->
                 {{ if eq .Section "khai-niem-nguon" }}

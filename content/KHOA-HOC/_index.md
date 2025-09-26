@@ -1,7 +1,7 @@
 ---
 title: "Khóa học"
 description: "Tổng hợp các khóa học phát triển bản thân toàn diện"
-date: 2024-01-01
+date: 2025-09-26
 draft: false
 type: "section"
 weight: 5
@@ -9,6 +9,8 @@ weight: 5
 
 # Khóa học
 
+> **⚠️ Đang trong quá trình xây dựng!**
+<!-- 
 Chào mừng bạn đến với bộ khóa học toàn diện của chúng tôi! Chúng tôi cung cấp các khóa học được thiết kế khoa học để giúp bạn phát triển toàn diện về mọi mặt của cuộc sống.
 
 ## 🎯 Tầm nhìn
@@ -110,4 +112,4 @@ Hãy chọn khóa học phù hợp với nhu cầu hiện tại của bạn và 
 
 ---
 
-**"Đầu tư vào bản thân là khoản đầu tư tốt nhất bạn có thể thực hiện."** - Warren Buffett
+**"Đầu tư vào bản thân là khoản đầu tư tốt nhất bạn có thể thực hiện."** - Warren Buffett -->

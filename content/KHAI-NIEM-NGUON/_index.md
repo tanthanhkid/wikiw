@@ -8,9 +8,9 @@ weight: 1
 
 # Khái Niệm Nguồn
 
-Đây là danh mục các khái niệm nguồn của chuyên gia tư vấn & huấn luyện nội tâm, được tổ chức theo các nhóm chính:
+Đang trong **quá trình xây dựng!**
 
-## Các nhóm khái niệm
+<!-- ## Các nhóm khái niệm -->
 
 <!-- - [1. Vũ trụ quan - Thế giới quan - Nhân sinh quan](vu-tru-quan-the-gioi-quan-nhan-sinh-quan/)
 - [2. Công đức - Phước đức](cong-duc-phuoc-duc/)
@@ -53,6 +53,6 @@ weight: 1
 - [XV. Văn hoá (Nghi thức nghi lễ)](văn-hoá-nghi-thức-nghi-lễ/) (7 khái niệm) -->
 <!-- - [XVI. Nguyên Lý Ánh Sáng](nguyen-ly-anh-sang) -->
 
-## Tổng quan
+<!-- ## Tổng quan
 
-Bộ khái niệm này bao gồm các nguyên lý, quy luật, phương pháp và công cụ cần thiết cho việc tư vấn và huấn luyện nội tâm.
+Bộ khái niệm này bao gồm các nguyên lý, quy luật, phương pháp và công cụ cần thiết cho việc tư vấn và huấn luyện nội tâm. -->

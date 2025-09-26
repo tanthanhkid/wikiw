@@ -66,3 +66,4 @@ Sau khi chạy script:
 - Đảm bảo bạn đang chạy script từ thư mục gốc của project
 - Kiểm tra quyền ghi file trong thư mục `content/TU-KHAINIEM/`
 - Nếu có lỗi encoding, đảm bảo file markdown được lưu với encoding UTF-8
+
