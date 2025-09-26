@@ -3,22 +3,13 @@ title: "Trang chủ"
 description: "Tài liệu toàn diện về phát triển nội tâm và huấn luyện tư vấn"
 date: 2024-01-01
 draft: false
-type: "page"
+type: "home"
 tableOfContents: true
 ---
 
 # Chào mừng đến với HappyMarketDocs
 
 **HappyMarketDocs** là nguồn tài liệu toàn diện và đáng tin cậy về phát triển nội tâm, huấn luyện tư vấn và phát triển bản thân. Chúng tôi cung cấp kiến thức chuyên sâu từ A-Z để giúp bạn phát triển toàn diện và thành công trong cuộc sống.
-
-## 📋 Mục lục chính
-
-1. [Bắt đầu ngay hôm nay](#bắt-đầu-ngay-hôm-nay)
-2. [Tài liệu chính](#tài-liệu-chính)
-3. [Tại sao chọn HappyMarketDocs?](#tại-sao-chọn-happymarketdocs)
-4. [Đối tượng độc giả](#đối-tượng-độc-giả)
-5. [Thống kê](#thống-kê)
-6. [Đóng góp](#đóng-góp)
 
 ## 🚀 Bắt đầu ngay hôm nay
 

@@ -9,7 +9,7 @@ weight: 5
 
 # Khóa học
 
-> **⚠️ Đang trong quá trình xây dựng!**
+<!-- > **⚠️ Đang trong quá trình xây dựng!** -->
 <!-- 
 Chào mừng bạn đến với bộ khóa học toàn diện của chúng tôi! Chúng tôi cung cấp các khóa học được thiết kế khoa học để giúp bạn phát triển toàn diện về mọi mặt của cuộc sống.
 

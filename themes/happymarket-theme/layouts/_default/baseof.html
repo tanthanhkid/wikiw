@@ -103,7 +103,7 @@
     <!-- Main Content -->
     <div class="flex">
         <!-- Sidebar -->
-        <aside class="hidden lg:block w-64 bg-gray-50 border-r border-gray-200 min-h-screen sticky top-16">
+        <aside class="hidden lg:block w-64 bg-gray-50 border-r border-gray-200 min-h-screen fixed top-16 left-0 z-50">
             <div class="p-6">
                 <!-- Search - Only show on bai-hoc pages -->
                 {{ if eq .Section "bai-hoc" }}
@@ -140,6 +140,51 @@
                 </div>
                 {{ end }}
                 
+                <!-- Quick Navigation for Khóa học -->
+                {{ if eq .Section "khoa-hoc" }}
+                <div class="mb-6">
+                    <h3 class="text-sm font-semibold text-gray-900 mb-3">📚 Khóa học</h3>
+                    <div class="space-y-2">
+                        <a href="/khoa-hoc/noi-tam/" class="block text-sm text-gray-700 hover:text-orange-500 p-2 rounded hover:bg-gray-50">
+                            🧘‍♀️ Nội tâm
+                        </a>
+                        <a href="/khoa-hoc/suc-khoe/" class="block text-sm text-gray-700 hover:text-orange-500 p-2 rounded hover:bg-gray-50">
+                            💪 Sức khỏe
+                        </a>
+                        <a href="/khoa-hoc/moi-quan-he/" class="block text-sm text-gray-700 hover:text-orange-500 p-2 rounded hover:bg-gray-50">
+                            ❤️ Mối quan hệ
+                        </a>
+                        <a href="/khoa-hoc/tai-chinh/" class="block text-sm text-gray-700 hover:text-orange-500 p-2 rounded hover:bg-gray-50">
+                            💰 Tài chính
+                        </a>
+                    </div>
+                </div>
+                {{ end }}
+                
+                <!-- Table of Contents for Homepage -->
+                {{ if or (eq .Type "page") (eq .Type "home") }}
+                <div class="mb-6">
+                    <h3 class="text-sm font-semibold text-gray-900 mb-3">📋 Mục lục</h3>
+                    <div class="space-y-2">
+                        <a href="#hero" class="block text-sm text-gray-700 hover:text-orange-500 p-2 rounded hover:bg-gray-50 smooth-scroll">
+                            🏠 Trang chủ
+                        </a>
+                        <a href="#features" class="block text-sm text-gray-700 hover:text-orange-500 p-2 rounded hover:bg-gray-50 smooth-scroll">
+                            ⭐ Tại sao chọn chúng tôi?
+                        </a>
+                        <a href="#main-content" class="block text-sm text-gray-700 hover:text-orange-500 p-2 rounded hover:bg-gray-50 smooth-scroll">
+                            📚 Tài liệu chính
+                        </a>
+                        <a href="#stats" class="block text-sm text-gray-700 hover:text-orange-500 p-2 rounded hover:bg-gray-50 smooth-scroll">
+                            📊 Thống kê
+                        </a>
+                        <a href="#cta" class="block text-sm text-gray-700 hover:text-orange-500 p-2 rounded hover:bg-gray-50 smooth-scroll">
+                            🚀 Bắt đầu ngay
+                        </a>
+                    </div>
+                </div>
+                {{ end }}
+                
                 <!-- Related Articles -->
                 {{ if .Params.related }}
                 <div class="mb-6">
@@ -159,7 +204,7 @@
         </aside>
         
         <!-- Main Content Area -->
-        <main class="flex-1 min-h-screen">
+        <main class="flex-1 min-h-screen lg:ml-64">
             <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
                 <!-- Breadcrumbs -->
                 {{ if .Params.breadcrumbs }}
@@ -279,6 +324,28 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/components/prism-core.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/plugins/autoloader/prism-autoloader.min.js"></script>
     <script src="{{ "js/main.js" | relURL }}"></script>
+    
+    <!-- Smooth scrolling for homepage -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const smoothScrollLinks = document.querySelectorAll('.smooth-scroll');
+            
+            smoothScrollLinks.forEach(link => {
+                link.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    const targetId = this.getAttribute('href').substring(1);
+                    const targetElement = document.getElementById(targetId);
+                    
+                    if (targetElement) {
+                        targetElement.scrollIntoView({
+                            behavior: 'smooth',
+                            block: 'start'
+                        });
+                    }
+                });
+            });
+        });
+    </script>
     
     {{ block "scripts" . }}{{ end }}
 </body>
