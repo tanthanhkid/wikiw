@@ -10,7 +10,8 @@ categories: [""]
 
 <!-- # 1. TVHL Nhận thức về nhân quả -->
 
-## Trọng điểm nhận Thức
+<div style="font-size:20px;">
+<span style="font-weight: bold"> TRỌNG ĐIỂM NHẬN THỨC <span>
 
 - Nhất tâm vì sự chuyển hóa và trưởng thành tận cùng của con người.
 
@@ -77,3 +78,5 @@ categories: [""]
 - Giúp người khác chuyển hóa là cách đơn giản nhất để ta có cuộc sống tốt đẹp vĩnh cửu.
 
 - Lúc mình ngủ cỗ máy vẫn vận hành
+
+<div>

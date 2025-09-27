@@ -42,9 +42,9 @@ lesson:
     <!-- <p style="text-align: left; font-size: 18px; line-height: 1.6;"> -->
   <p style="text-align: left;">
 
-**BÀI HỌC - TÂM ĐẮC - NGỘ RA** <br>
+**Đang trong quá trình xây dựng!** <br>
 
-**Bài học:** Là những gì mới mà chúng ta chưa từng học.
+<!-- **Bài học:** Là những gì mới mà chúng ta chưa từng học.
 
 **Tâm đắc:** Là những gì chúng ta có thể ứng dụng cho cuộc sống của chúng ta trong tương lai.
 
@@ -65,7 +65,7 @@ lesson:
 **Tổng nghiệp duyên:** Là tổng tất cả các mối nhân duyên với con người ở hằng hà sa số đời.
 
 **Tổng nghiệp quả:** Là tổng tất cả kết quả cuộc sống ở hằng hà sa số đời của con người.
-
+ -->
 
   </p>
   </div>
@@ -122,7 +122,7 @@ lesson:
       <a href="../../TU-KHAINIEM/ngo-ra/" style="text-decoration: none; color: blue; font-weight: bold;">NGỘ RA</a>
     </td>
     <td style="border: 1px solid black; padding: 8px;">
-      <a href="../../TU-KHAINIEM/cach-am-vo-minh/" style="text-decoration: none; color: blue; font-weight: bold;">CÁCH ÂM VÔ MINH</a>
+      <a href="../../TU-KHAINIEM/cach-am-vo-minh/" style="text-decoration: none; color: blue; font-weight: bold;">CÁCH ẤM VÔ MINH</a>
     </td>
     <td style="border: 1px solid black; padding: 8px;">
       <a href="../../TU-KHAINIEM/kich-hoat-tong-nghiep/" style="text-decoration: none; color: blue; font-weight: bold;">TỔNG NGHIỆP</a>

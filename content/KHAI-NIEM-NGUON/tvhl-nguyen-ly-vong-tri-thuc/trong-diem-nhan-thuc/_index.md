@@ -10,18 +10,15 @@ categories: [""]
 
 <!-- # 1. TVHL Nhận thức về nhân quả -->
 
-## Trọng điểm nhận Thức
+<div style="font-size:20px;">
+  <span style="font-weight: bold;">TRỌNG ĐIỂM NHẬN THỨC</span>
 
-- Đơn giản hóa cái Biết của con người.
-
-- Trở nên uyên bác hơn.
-
-- Người không còn tự cao, cũng không còn tự ti.     
-
-- Chỉ cần rà soát những gì chúng ta đang biết.
-
-- Việc cấp bách hiện tại là chúng ta cần mở rộng tri thức về nhân sinh.
-
-- Mở rộng cái Biết của người, trở thành người giao tiếp thông thái.
-
-- Bản thân hấp thu vô hạn tri thức.
+  <br>
+  Đơn giản hóa cái Biết của con người.<br>
+  Trở nên uyên bác hơn.<br>
+  Người không còn tự cao, cũng không còn tự ti.<br>
+  Chỉ cần rà soát những gì chúng ta đang biết.<br>
+  Việc cấp bách hiện tại là chúng ta cần mở rộng tri thức về nhân sinh.<br>
+  Mở rộng cái Biết của người, trở thành người giao tiếp thông thái.<br>
+  Bản thân hấp thu vô hạn tri thức.<br>
+</div>

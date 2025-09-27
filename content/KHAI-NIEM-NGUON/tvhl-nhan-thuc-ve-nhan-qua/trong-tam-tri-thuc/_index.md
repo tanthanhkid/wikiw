@@ -13,25 +13,26 @@ categories: [""]
 **Mã khái niệm:** NT0802  
 **Nhóm:** XVI. Nguyên Lý Ánh Sáng -->
 
-## Trọng Điểm Tri Thức
+<div style="font-size:20px;">
+<span style="font-weight: bold"> TRỌNG ĐIỂM TRI THỨC </span>
 
-Tầm quan trọng của quy luật - nguyên lý thông qua hình tượng con thuyền trên dòng nước.
-Nguyên Lý Nhị Nguyên.
+**Quản trị nhân quả:**<br>
+ -- Vũ trụ quan<br>
+ -- Thế giới quan<br>
+ -- Nhân sinh quan
 
-Cuộc đời bị chi phối bởi những khía cạnh nào và làm sao để có thể làm chủ cuộc đời?
+**Quản trị nhân quả Vũ Trụ Quan:**<br>
+-- Công đức - phước đức
 
-Các vấn nạn có tương quan mật thiết như thế nào?
-Thắp ánh 7 ngọn đèn làm chủ 4 khía cạnh, làm chủ cuộc đời.
+**Quản trị nhân quả Thế Giới Quan:**<br>
+-- Tâm thức<br>
+-- Tư duy<br>
+-- Hành vi<br>
 
-Tại sao phải đồng thời thắp 7 ngọn đèn này?
+**Quản trị nhân quả Nhân Sinh Quan:**<br>
+-- Rõ hình - Rõ khái niệm - Trạng thái nội tâm cân bằng hướng dương<br>
+-- Nhận thức nội tâm về con người<br>
+-- Nhân tốt + Duyên lành = Quả như ý (Công thức Kích - Giữ)
 
-Tại sao phải làm giàu 7 sự giàu toàn diện thì mới gọi là thực sự giàu?
-Phân loại 7 sự Giàu Toàn Diện: Phi Vật Chất và Vật Chất.
+</div>
 
-Tại sao ngọn đèn Trí Tuệ và ngọn đèn Tâm Thái cần phải thắp lên đầu tiên?
-Mọi vật chất nâng cao giá trị khi được Phi Vật Chất hóa
-Con người (Bản thân, con cái, nhân sự...) nâng cao giá trị khi được Phi Vật Chất hóa.
-
-Phá chấp quan niệm về vật chất không chỉ là cầm, nắm, sờ, chạm mà còn nhìn thấy, cảm thấy, cảm nhận.
-Đơn giản để chuyển giao yếu tố Phi Vật Chất và trở thành người mình mong muốn khi Vật chất hóa Phi Vật Chất
-Vật chất hóa Phi Vật Chất là Phi Vật Chất hóa Bản Thân

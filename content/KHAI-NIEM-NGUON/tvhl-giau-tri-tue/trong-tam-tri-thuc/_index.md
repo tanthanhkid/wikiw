@@ -13,7 +13,8 @@ categories: [""]
 **Mã khái niệm:** NT0802  
 **Nhóm:** XVI. Nguyên Lý Ánh Sáng -->
 
-## Trọng Điểm Tri Thức
+<div style="font-size:20px;">
+<span style="font-weight: bold"> TRỌNG ĐIỂM TRI THỨC </span>
 
 1. Phân biết được 3 khái niệm: Trí Tuệ, Thông Thái, Khôn Ngoan, Uyên Bác
 

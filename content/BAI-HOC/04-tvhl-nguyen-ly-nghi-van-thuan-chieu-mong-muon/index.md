@@ -42,9 +42,9 @@ lesson:
     <!-- <p style="text-align: left; font-size: 18px; line-height: 1.6;"> -->
   <p style="text-align: left;">
 
-**NGỘ - TIỂU NGỘ - ĐẠI NGỘ - TRIỆT NGỘ - GIÁC NGỘ** <br>
+**Đang trong quá trình xây dựng!** <br>
 
-**NGỘ** Là trạng thái giao thoa giữa nghi vấn hay những trăn trở lâu ngày, tới một giây phút khi chúng ta hiểu thì vừa bừng sáng một trạng thái, tích tắc nội tâm chuyển từ nghi qua ngộ.
+<!-- **NGỘ** Là trạng thái giao thoa giữa nghi vấn hay những trăn trở lâu ngày, tới một giây phút khi chúng ta hiểu thì vừa bừng sáng một trạng thái, tích tắc nội tâm chuyển từ nghi qua ngộ.
 
 **TIỂU NGỘ** (ngộ ra những cái nhỏ): Là 1 thuật ngữ chỉ về những cái ngộ, chỉ ảnh hướng vừa phải đến cuộc đời con người ở một khía cạnh nào đó.
 
@@ -62,7 +62,7 @@ lesson:
 
 **TÍCH CỰC** Là những gì thuận chiều mong muốn
 
-**TIÊU CỰC** Là những gì ngược chiều mong muốn
+**TIÊU CỰC** Là những gì ngược chiều mong muốn -->
 
   </p>
   </div>

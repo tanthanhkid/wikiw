@@ -15,18 +15,6 @@ weight: 1
   max-width: 100%;
 }
 
-/* .image-card {
-  width: 100%;
-  max-width: 100%;
-  border: 1px solid #fff;
-  border-radius: 8px;
-  padding: 12px;
-  background: #fff;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-  transition: transform 0.2s ease;
-  text-align: center;
-} */
-
  .image-card {
   display: flex;
   flex-direction: column;
@@ -45,18 +33,11 @@ weight: 1
   height: 200px;
   object-fit: contain;
   border-radius: 4px;
+  border: 1px solid #fff;
   padding: 10px;
   display: block;
   margin: 0 auto;
 }
-
-/* .image-card p {
-  margin: 12px 0;
-  font-size: 16px;
-  color: #333;
-  word-wrap: break-word;
-  font-weight: 500;
-} */
 
 .image-card p {
   min-height: 48px; /* tạo chiều cao đồng nhất cho text */
@@ -180,10 +161,10 @@ weight: 1
 
   <div class="image-card">
     <img src="/images/hinh3a.png" alt="Hình 3">
-    <p>Canva chưa có tên</p>
+    <p>Nhận thức về nhân quả</p>
     <div class="buttons">
       <a href="/">Khái Niệm</a>
-      <a href="/">Bài Học</a>
+      <a href="../BAI-HOC/01-tvhl-nhan-thuc-ve-nhan-qua/">Bài Học</a>
     </div>
   </div>
 
@@ -209,8 +190,8 @@ weight: 1
     <img src="/images/hinh6a.png" alt="Hình 6">
     <p>II.1-Nguyên lý Ánh Sáng</p>
     <div class="buttons">
-      <a href="/">Khái Niệm</a>
-      <a href="/">Bài Học</a>
+      <a href="../TU-KHAINIEM/nguyen-ly-anh-sang/">Khái Niệm</a>
+      <a href="../BAI-HOC/bai-hoc-nguyen-ly-anh-sang/">Bài Học</a>
     </div>
   </div>
 
@@ -246,7 +227,7 @@ weight: 1
     <p>Nguyên lý Kích hoạt não </p>
     <div class="buttons">
       <a href="/">Khái Niệm</a>
-      <a href="/">Bài Học</a>
+      <a href="../BAI-HOC/03-tvhl-nguyen-ly-kich-hoat-nao/">Bài Học</a>
     </div>
   </div>
 
@@ -254,8 +235,8 @@ weight: 1
     <img src="/images/hinh11a.png" alt="Hình 11">
     <p>Chất lượng cuộc sống</p>
     <div class="buttons">
-      <a href="/">Khái Niệm</a>
-      <a href="/">Bài Học</a>
+      <a href="\">Khái Niệm</a>
+      <a href="../BAI-HOC/01-tvhl-nhan-thuc-ve-nhan-qua/">Bài Học</a>
     </div>
   </div>
 
@@ -264,7 +245,7 @@ weight: 1
     <p>II.3-Nguyên lý nghi vấn Thuận chiều mong muốn</p>
     <div class="buttons">
       <a href="/">Khái Niệm</a>
-      <a href="/">Bài Học</a>
+      <a href="../BAI-HOC/04-tvhl-nguyen-ly-nghi-van-thuan-chieu-mong-muon/">Bài Học</a>
     </div>
   </div>
 
@@ -299,8 +280,8 @@ weight: 1
     <img src="/images/hinh16a.png" alt="Hình 16">
     <p>Nguyên lý vòng tri thức </p>
     <div class="buttons">
-      <a href="/">Khái Niệm</a>
-      <a href="/">Bài Học</a>
+      <a href="\">Khái Niệm</a>
+      <a href="../BAI-HOC/05-tvhl-nguyen-ly-vong-tri-thuc/">Bài Học</a>
     </div>
   </div>
 

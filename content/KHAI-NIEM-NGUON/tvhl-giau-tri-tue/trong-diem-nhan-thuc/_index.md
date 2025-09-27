@@ -9,8 +9,8 @@ categories: [""]
 ---
 
 <!-- # 1. TVHL Nhận thức về nhân quả -->
-
-## Trọng điểm nhận Thức
+<div style="font-size:20px;">
+<span style="font-weight: bold"> TRỌNG ĐIỂM NHẬN THỨC <span>
 
 - Phân biệt được người Trí Tuệ, người Thông Thái, người Khôn Ngoan, người Uyên Bác
 
@@ -51,7 +51,7 @@ Không nên mở tầng bậc 5, người bình thường mong cầu có cuộc 
 - Kích hoạt được Nghiệp thức, Nghiệp duyên, Nghiệp quả
 - Bảo vệ Trạng thái Nhận thức Nội tâm
 
-5. ỨNG DỤNG VÀO CUỘC SỐNG
+6. ỨNG DỤNG VÀO CUỘC SỐNG
 Rảnh thì An Vui, nghĩ thì nghĩ về 7 sự Giàu Toàn Diện, mở miệng là Quảng Bá.
 Vượt thoát vấn nạn
 
@@ -59,3 +59,5 @@ Vượt thoát vấn nạn
 - Hiểu được khái niệm, biểu hiện của sự đơn giản, của sự vui vẻ, của sự tin tưởng của sự nhẹ nhàng.
 
 Biết ứng dụng 6 chữ vàng vào khi làm bất cứ điều gì: Thể thao, làm việc, học tập.....để trở thành phi thường.
+
+<div>

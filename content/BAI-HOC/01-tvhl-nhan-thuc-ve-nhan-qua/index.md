@@ -28,7 +28,7 @@ lesson:
     </h2>
     <a href="\" style="display: block; text-align: center;">
       <div style="border: 1px solid #fff; border-radius: 8px; padding: 8px; background: #fff;">
-        <img src="/images/hinh21a.png" alt="Hình 3"
+        <img src="/images/hinh119a.png" alt="Hình 3"
              style="width: 100%; height: 200px; object-fit: contain; border-radius: 4px; padding:10px;">
       </div>
     </a>
@@ -42,7 +42,7 @@ lesson:
     <!-- <p style="text-align: left; font-size: 18px; line-height: 1.6;"> -->
   <p style="text-align: left;">
 
-**Vũ trụ quan** là những kiến thức về tôn giáo (tín ngưỡng), liên quan đến những cái ẩn đằng sau con người: sau khi con người mất thân rồi đi về đâu, cùng với con người sống có các loài hữu hình, vô hình nào.
+<!-- **Vũ trụ quan** là những kiến thức về tôn giáo (tín ngưỡng), liên quan đến những cái ẩn đằng sau con người: sau khi con người mất thân rồi đi về đâu, cùng với con người sống có các loài hữu hình, vô hình nào.
 
 **Thế giới quan** là những gì xung quanh con người, bao gồm sự hiểu biết về môi trường tự nhiên và xã hội. Nó liên quan đến các kiến thức khoa học mà con người tích lũy qua nhiều môn học và ngành khoa học khác nhau. 
 
@@ -72,7 +72,17 @@ Quảng bá là nhắc đi nhắc lại việc gì mà người khác làm cho m
 	Thực hành toàn diện 7 bố thí (đặc biệt là Tâm Thí).
 
 **Vật chất hóa**<br>
-	Chuyển giao hình ảnh tâm trí.
+	Chuyển giao hình ảnh tâm trí. -->
+
+Khi .... Vũ trụ quan thì thấu suốt **Nhân sinh quan** và triệt ngộ **Thế giới quan**.
+
+**Tri thức** con người chia thành 3 nhóm:<br>
+-- Nhân Sinh Quan <br>
+-- Thế Giới Quan <br>
+-- Vũ Trụ Quan
+
+
+**"Nhân duyên quả trong nhân sinh"**
   </p>
   </div>
 
@@ -137,7 +147,7 @@ Quảng bá là nhắc đi nhắc lại việc gì mà người khác làm cho m
       <a href="../../TU-KHAINIEM/moi-quan-he/" style="text-decoration: none; color: blue; font-weight: bold;">VŨ TRỤ QUAN</a>
     </td>
     <td style="border: 1px solid black; padding: 8px;">
-      <a href="\" style="text-decoration: none; color: blue; font-weight: bold;"></a>
+      <a href="\" style="text-decoration: none; color: blue; font-weight: bold;">NHÂN QUẢ</a>
     </td>
     <td style="border: 1px solid black; padding: 8px;"></td>
     <td style="border: 1px solid black; padding: 8px;"></td>

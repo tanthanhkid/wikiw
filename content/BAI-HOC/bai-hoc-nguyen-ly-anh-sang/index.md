@@ -14,10 +14,10 @@ lesson:
     tuKhaiNiem: "nguyen-ly-anh-sang"
 ---
 
-# Bài học nguyên lý ánh sáng
+<!-- # Bài học nguyên lý ánh sáng -->
 
-**Mã hình:** WNT36003  
-**Khóa học:** THẤU HIỂU NỘI TÂM - KIẾN TẠO AN VUI
+<!-- **Mã hình:** WNT36003  
+**Khóa học:** THẤU HIỂU NỘI TÂM - KIẾN TẠO AN VUI -->
 
 <div style="display: flex; gap: 16px;">
 
@@ -28,7 +28,7 @@ lesson:
     </h2>
     <a href="\" style="display: block; text-align: center;">
       <div style="border: 1px solid #fff; border-radius: 8px; padding: 8px; background: #fff;">
-        <img src="/images/hinh4_nguyen_ly_anh_sang.jfif" alt="Hình 3"
+        <img src="/images/hinh2_nguyen_ly_anh_sang.jfif" alt="Hình 3"
              style="width: 100%; height: 200px; object-fit: contain; border-radius: 4px; padding:10px;">
       </div>
     </a>
@@ -58,7 +58,7 @@ Chuyển hóa là quy luật cơ bản trong phát triển nội tâm, thể hi�
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: flex-start;">
   <a href="\" style="flex: 1 1 calc(25% - 12px); max-width: calc(25% - 12px); text-align: center;">
     <div style="border: 1px solid #fff; border-radius: 8px; padding: 8px; background: #fff;">
-      <img src="/images/hinh2_nguyen_ly_anh_sang.jfif" alt="Hình 1"
+      <img src="/images/hinh4_nguyen_ly_anh_sang.jfif" alt="Hình 1"
            style="width: 100%; height: 200px; object-fit: contain; border-radius: 4px; padding:10px;">
     </div>
   </a>

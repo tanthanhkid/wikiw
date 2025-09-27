@@ -10,7 +10,8 @@ categories: [""]
 
 <!-- # 1. TVHL Nhận thức về nhân quả -->
 
-## Trọng điểm nhận Thức
+<div style="font-size:20px;">
+<span style="font-weight: bold"> TRỌNG ĐIỂM NHẬN THỨC <span>
 
 1. Dùng từ biểu hiện vật chất để biết mình thay đổi điều gì.
 
@@ -46,4 +47,6 @@ Những gì chúng ta biết, những gì chúng ta tin, những gì chúng ta h
 - Xác định cái biết của mình: biết mình đang biết gì và biết mình không biết gì thì đơn giản mở rộng cái biết và trở nên uyên bác. (Biết ở đây là thuần biết: biết - tin - hiểu)
 
 - Phát triển và đào sâu tận cùng khái niệm.
+
+</div>
 

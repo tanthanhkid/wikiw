@@ -42,9 +42,9 @@ lesson:
     <!-- <p style="text-align: left; font-size: 18px; line-height: 1.6;"> -->
   <p style="text-align: left;">
 
-**NHÂN SINH QUAN, THẾ GIỚI QUAN, VŨ TRỤ QUAN** <br>
+**Đang trong quá trình xây dựng và phát triển!** <br>
 
-**Vũ trụ** quan là những kiến thức về tôn giáo tín ngưỡng, liên quan đến những cái ẩn đằng sau con người: sau khi con người mất thân rồi đi về đâu, cùng với con người sống có các loài hữu hình, vô hình nào.
+<!-- **Vũ trụ** quan là những kiến thức về tôn giáo tín ngưỡng, liên quan đến những cái ẩn đằng sau con người: sau khi con người mất thân rồi đi về đâu, cùng với con người sống có các loài hữu hình, vô hình nào.
 
 **Thế giới quan** là những gì xung quanh con người, bao gồm sự hiểu biết về môi trường tự nhiên và xã hội. Nó liên quan đến các kiến thức khoa học mà con người tích lũy qua nhiều môn học và ngành khoa học khác nhau
 
@@ -68,7 +68,7 @@ Nói cho Biết dựa vào Niềm tin 	Nói cho Hiểu dựa vào cái Biết
 
 Nói cho Thấu suốt dựa vào Nghi vấn
 
-Nói cho Chuyển hóa dựa vào Mong muốn
+Nói cho Chuyển hóa dựa vào Mong muốn -->
 
 
   </p>
@@ -134,7 +134,7 @@ Nói cho Chuyển hóa dựa vào Mong muốn
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-      <a href="\" style="text-decoration: none; color: blue; font-weight: bold;">HUẤN LUYÊN</a>
+      <a href="\" style="text-decoration: none; color: blue; font-weight: bold;">HUẤN LUYỆN</a>
     </td>
     <td style="border: 1px solid black; padding: 8px;">
       <!-- <a href="../../TU-KHAINIEM/mong-muon/" style="text-decoration: none; color: blue; font-weight: bold;">MONG MUỐN</a> -->
