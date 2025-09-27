@@ -17,6 +17,7 @@ weight: 1
 | [6 Quan niệm chuẩn về sức khoẻ](6-quan-niem-chuan-ve-suc-khoe/) | | 
 | [7 Bố thí quan trọng đời người](7-bo-thi-quan-trong-doi-nguoi/)  |  |
 | [8 Tố chất nhân tài](8-to-chat-nhan-tai/) | | 
+| [9 Dạng người cần nhận dạng trong 1](9-dang-nguoi-can-nhan-dang-trong-1/) | | 
 | [Ác đức](ac-duc/) | Ác Đức tương ứng khối điện từ âm, chứa trong vỏ bọc tánh người, được tạo ra khi làm cho người khác đau khổ... |
 | [An vui](an-vui/) | An vui là trạng thái nhận thức nội tâm xuất phát từ sự chân thật nơi chính mình, xuất phát từ Nghe - Thấy - Nói... |
 | [Bài học](bai-hoc/) | Bài học là những gì mới mà chúng ta chưa từng học... |
@@ -119,6 +120,7 @@ weight: 1
 | [Năng lực xã hội](nang-luc-xa-hoi/) | Năng lực Quan hệ xã hội: Là khả năng tương tác, kết nối với các đối tượng trong 4 động lực sinh tồn (Bản thân, gia đình, tổ chức và xã hội). Quan niệm (hiểu một cách dân gian nhất) chính là cách nghĩ và thái độ của người đó... |
 | [Năng lực của trí tuệ](nang-luc-cua-tri-tue/) | NĂNG LƯỢNG CỦA TRÍ TUỆ: 1. An vui 2. Bao dung 3. Trân trọng - biết ơn... |
 | [Nghề ước mơ](nghe-uoc-mo/) | |
+| [Nghiệp bệnh](nghiep-benh/) | Nghiệp bệnh là khái niệm xuất phát từ triết lý Phật giáo,... |
 | [Ngộ](ngo/) | NGỘ Là trạng thái giao thoa giữa nghi vấn hay những trăn trở lâu ngày, tới một giây phút khi chúng ta hiểu thì vừa bừng sáng một trạng thái, tích tắc nội tâm chuyển từ nghi qua ngộ... |
 | [Ngộ ra](ngo-ra/) | Ngộ ra: Là những gì chúng ta trăn trở mà chưa có lời giải, ngày hôm nay có lời giải... |
 | [Ngôn thí](ngon-thi/) | Ngộ ra: Là những gì chúng ta trăn trở mà chưa có lời giải, ngày hôm nay có lời giải... |

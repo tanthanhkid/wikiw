@@ -15,4 +15,10 @@ categories: [""]
 
 ## Khái Niệm
 
-“Đang trong quá trình bổ sung nội dung!”
+NHAN THÍ 
+NHÃN THÍ 
+NGÔN THÍ 
+TÂM THÍ
+PHÒNG THÍ 
+THÂN THÍ 
+TỌA THÍ 

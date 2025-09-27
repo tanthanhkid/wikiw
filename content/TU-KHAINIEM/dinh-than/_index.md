@@ -15,4 +15,4 @@ categories: [""]
 
 ## Khái Niệm
 
-“Đang trong quá trình bổ sung!”
+**Định thân:** là trạng thái nhận thức nội tâm bản thân là ai với sự tập trung toàn bộ nguồn lực để trở thành người đó.

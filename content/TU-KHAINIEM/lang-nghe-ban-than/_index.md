@@ -16,8 +16,9 @@ categories: ["TVHL Giàu Nhân cách"]
 ## Khái Niệm
 
 “ 
-Thông tin hóa: lắng nghe bản thân là hành động nhận thức các trạng thái, các quá trình chuyển hoá thô và vi tế diễn ra bên trong bản thân.
-Năng lượng hóa: lắng nghe bản thân là trạng thái nhận thức rằng bản thân cần nâng tầm hiểu biết, nâng tầm trí tuệ để vượt thoát mọi vấn nạn phát sinh, rằng bản thân cần có sự đủ đầy trên mọi phương diện của cuộc sống.
-Vật chất hóa: lắng nghe bản thân là quan sát được trạng thái rung động của sự chân thật nơi chính mình, 16 tánh, tình, thân tứ đại.
+**Thông tin hóa:** lắng nghe bản thân là hành động nhận thức các trạng thái, các quá trình chuyển hoá thô và vi tế diễn ra bên trong bản thân.
 
+**Năng lượng hóa:** lắng nghe bản thân là trạng thái nhận thức rằng bản thân cần nâng tầm hiểu biết, nâng tầm trí tuệ để vượt thoát mọi vấn nạn phát sinh, rằng bản thân cần có sự đủ đầy trên mọi phương diện của cuộc sống.
+
+**Vật chất hóa:** lắng nghe bản thân là quan sát được trạng thái rung động của sự chân thật nơi chính mình, 16 tánh, tình, thân tứ đại.
 ”

@@ -16,6 +16,7 @@ categories: ["TVHL Giàu Năng lực."]
 ## Khái Niệm
 
 “ 
-Năng lực Chuyên môn: Là thấu hiểu tất cả các khái niệm của ngành, tư duy của ngành (tư duy đích đến, tư duy kết quả, tư duy tầm nhìn).
+**Năng lực Chuyên môn:** Là thấu hiểu tất cả các khái niệm của ngành, tư duy của ngành (tư duy đích đến, tư duy kết quả, tư duy tầm nhìn).
+
 Là năng lực biến những gì phức tạp trong ngành trở nên đơn giản.
 ”

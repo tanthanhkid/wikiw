@@ -15,7 +15,6 @@ categories: ["TVHL Giàu Năng lực."]
 
 ## Khái Niệm
 
-“ 
-Năng lực Quan hệ xã hội: Là khả năng tương tác, kết nối với các đối tượng trong 4 động lực sinh tồn (Bản thân, gia đình, tổ chức và xã hội)
+**Năng lực Quan hệ xã hội:** Là khả năng tương tác, kết nối với các đối tượng trong 4 động lực sinh tồn (Bản thân, gia đình, tổ chức và xã hội)
+
 Quan niệm (hiểu một cách dân gian nhất) chính là cách nghĩ và thái độ của người đó, còn hiểu một cách sâu sắc hơn trong cộng đồng của chúng ta là trí tuệ, tâm thái, nhân cách, phẩm chất của con người nằm trong quan niệm.
-”

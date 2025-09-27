@@ -15,4 +15,13 @@ categories: [""]
 
 ## Khái Niệm
 
-“Đang trong quá trình bổ sung nội dung!”
+DŨNG CẢM NHẬN LỖI
+DŨNG CẢM THAY ĐỔI
+GÁNH VÁC
+KHIÊM TỐN
+KIÊN TRÌ
+NGƯỜI TÀI
+SỨC HỌC TẬP
+TỐ CHẤT
+NHÂN TÀI
+

@@ -15,4 +15,4 @@ categories: [""]
 
 ## Khái Niệm
 
-“Đang trong quá trình bổ sung nội dung!”
+1. Bản thân        2. Gia đình         3. Tổ chức        4. Xã hội

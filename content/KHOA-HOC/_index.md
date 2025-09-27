@@ -1,13 +1,15 @@
 ---
 title: "Khóa học"
-description: "Tổng hợp các khóa học phát triển bản thân toàn diện"
+description: ""
 date: 2025-09-26
 draft: false
 type: "section"
 weight: 5
 ---
 
-# Khóa học
+**Đang trong quá trình xây dựng!**
+
+<!-- # Khóa học -->
 
 <!-- > **⚠️ Đang trong quá trình xây dựng!** -->
 <!-- 

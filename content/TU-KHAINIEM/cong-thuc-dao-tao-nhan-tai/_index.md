@@ -15,4 +15,12 @@ categories: [""]
 
 ## Khái Niệm
 
-“Đang trong quá trình bổ sung!”
+**CÔNG THỨC ĐÀO TẠO NHÂN TÀI**
+
+Ghi nhận biết ơn.
+
+Làm lớn hình ảnh tốt đẹp         Quảng bá
+
+Bao dung
+
+Đào tạo và bồi dưỡng.

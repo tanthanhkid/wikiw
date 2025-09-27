@@ -15,11 +15,9 @@ categories: ["TVHL Giàu Năng lực, TVHL Bảy sự giàu toàn diện."]
 
 ## Khái Niệm
 
-“ 
-Năng lực của một người là mức độ trưởng thành của người đó về cả 3 mặt: Quan niệm, quan hệ xã hội và chuyên môn. Sự trưởng thành của 3 mặt này có quan hệ mật thiết với nhau tạo thành vòng tuần hoàn năng lực.
+**Năng lực của một người** là mức độ trưởng thành của người đó về cả 3 mặt: Quan niệm, quan hệ xã hội và chuyên môn. Sự trưởng thành của 3 mặt này có quan hệ mật thiết với nhau tạo thành vòng tuần hoàn năng lực.
 ------------------------------
-NĂNG LỰC
+**NĂNG LỰC**
         VÒNG TUẦN HOÀN NĂNG LỰC          TRƯỞNG THÀNH
         TRƯỞNG THÀNH HƠN NGƯỜI           THÀNH CÔNG
         QUAN NIỆM- QUAN HỆ XÃ HỘI - CHUYÊN MÔN
-”

@@ -1,14 +1,14 @@
 ---
 title: "Khái Niệm Nguồn"
-description: "Danh mục các khái niệm nguồn của chuyên gia tư vấn & huấn luyện nội tâm"
-date: 2024-01-01
+description: ""
+date: 2025-09-09
 draft: false
 weight: 1
 ---
 
-# Khái Niệm Nguồn
+<!-- # Khái Niệm Nguồn -->
 
-Đang trong **quá trình xây dựng!**
+**Đang trong quá trình xây dựng!**
 
 <!-- ## Các nhóm khái niệm -->
 

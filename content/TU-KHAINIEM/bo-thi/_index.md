@@ -15,4 +15,8 @@ categories: [""]
 
 ## Khái Niệm
 
-“Đang trong quá trình bổ sung!”
+Bố thí: Dạng năng lượng
+
+Bố thí: Người ta phải nhận được nó.
+
+**BỐ THÍ** là người nhận không biết mình nhận và người trao đi không biết mình trao đi.

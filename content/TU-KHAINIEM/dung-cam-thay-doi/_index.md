@@ -16,4 +16,5 @@ categories: ["TVHL 8 Tố chất nhân tài"]
 ## Khái Niệm
 
 Dũng cảm thay đổi là chủ động thay đổi và làm những việc trước giờ chưa từng làm.  
+
 Là vượt qua rào cản của bản thân để thay đổi một thói quen, một tính cách, một công việc để HÌNH THÀNH thói quen mới, hoàn cảnh mới, công việc MỚI.

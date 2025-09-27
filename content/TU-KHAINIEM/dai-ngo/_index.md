@@ -15,4 +15,4 @@ categories: [""]
 
 ## Khái Niệm
 
-ĐẠI NGỘ (cái ngộ lớn): “Là 1 thuật ngữ chỉ về những cái ngộ ảnh hưởng đến khía cạnh lớn, tác động đến cuộc đời con người.”
+**ĐẠI NGỘ (cái ngộ lớn):** “Là 1 thuật ngữ chỉ về những cái ngộ ảnh hưởng đến khía cạnh lớn, tác động đến cuộc đời con người.”

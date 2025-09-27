@@ -15,9 +15,8 @@ categories: ["TVHL Giàu Trí tuệ"]
 
 ## Khái Niệm
 
-“ 
-NĂNG LƯỢNG CỦA TRÍ TUỆ
-1. An vui 
-2. Bao dung
-3. Trân trọng - biết ơn
-”
+
+**NĂNG LƯỢNG CỦA TRÍ TUỆ**
+**1. An vui**
+**2. Bao dung**
+**3. Trân trọng - biết ơn**

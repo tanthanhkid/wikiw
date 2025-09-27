@@ -15,4 +15,4 @@ categories: ["TVHL Nguyên lý kích hoạt não"]
 
 ## Khái Niệm
 
-Ngộ ra: Là những gì chúng ta trăn trở mà chưa có lời giải, ngày hôm nay có lời giải.
+**Ngộ ra:** Là những gì chúng ta trăn trở mà chưa có lời giải, ngày hôm nay có lời giải.
