@@ -34,41 +34,13 @@ lesson:
     </a>
   </div>
 
-  <!-- Cột Khái Niệm -->
   <div style="flex: 1; max-width: 50%;">
     <h2 style="text-align: center; font-weight: bold; font-size: 22px; margin-bottom: 12px;">
       Khái Niệm
     </h2>
-    <!-- <p style="text-align: left; font-size: 18px; line-height: 1.6;"> -->
   <p style="text-align: left;">
 
 **Đang trong quá trình xây dựng và phát triển!** <br>
-
-<!-- **Vũ trụ** quan là những kiến thức về tôn giáo tín ngưỡng, liên quan đến những cái ẩn đằng sau con người: sau khi con người mất thân rồi đi về đâu, cùng với con người sống có các loài hữu hình, vô hình nào.
-
-**Thế giới quan** là những gì xung quanh con người, bao gồm sự hiểu biết về môi trường tự nhiên và xã hội. Nó liên quan đến các kiến thức khoa học mà con người tích lũy qua nhiều môn học và ngành khoa học khác nhau
-
-**Nhân sinh quan** là tri thức liên quan đến sự sinh trưởng và phát triển chung của con người. Nhân sinh của con người liên quan đến nội tâm, sức khỏe - sắc đẹp, mối quan hệ của con người và liên quan đến tài chính - là bốn cái hiểu biết nền tảng của nhân sinh. Nền tảng nhất của nhân sinh chính là nội tâm.
-
-**VÒNG TRI THỨC, NHỊP ĐIỆUTRONG TVHL** <br>
-
-**Vòng tri thức**
-Tri thức con người có 4 vòng: Biết - Biết
-
-- Biết - Quên
-
-- Biết - Không biết
-
-- Không biết - Không biết.
-
-
-**Nhịp điệu trong TVHL**
-
-Nói cho Biết dựa vào Niềm tin 	Nói cho Hiểu dựa vào cái Biết
-
-Nói cho Thấu suốt dựa vào Nghi vấn
-
-Nói cho Chuyển hóa dựa vào Mong muốn -->
 
 
   </p>

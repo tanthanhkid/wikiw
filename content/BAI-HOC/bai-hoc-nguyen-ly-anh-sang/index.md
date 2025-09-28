@@ -21,7 +21,6 @@ lesson:
 
 <div style="display: flex; gap: 16px;">
 
-  <!-- Cột Hình Bài Học -->
   <div style="flex: 1; max-width: 50%;">
     <h2 style="text-align: center; font-weight: bold; font-size: 22px; margin-bottom: 12px;">
       Hình Bài Học
@@ -34,7 +33,6 @@ lesson:
     </a>
   </div>
 
-  <!-- Cột Khái Niệm -->
   <div style="flex: 1; max-width: 50%;">
     <h2 style="text-align: center; font-weight: bold; font-size: 22px; margin-bottom: 12px;">
       Khái Niệm
@@ -47,14 +45,9 @@ lesson:
 
 </div>
 
-
-<!-- ### Tổng quan
-Chuyển hóa là quy luật cơ bản trong phát triển nội tâm, thể hiện sự thay đổi từ trạng thái này sang trạng thái khác một cách tích cực và có ý nghĩa. -->
 <h2 style="text-align: center; font-weight: bold; font-size: 22px; margin-bottom: 12px;">
        Bài Học Liên Quan
     </h2>
-<!-- ## Bài học liên quan -->
-
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: flex-start;">
   <a href="\" style="flex: 1 1 calc(25% - 12px); max-width: calc(25% - 12px); text-align: center;">
     <div style="border: 1px solid #fff; border-radius: 8px; padding: 8px; background: #fff;">

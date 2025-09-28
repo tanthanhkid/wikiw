@@ -33,40 +33,13 @@ lesson:
       </div>
     </a>
   </div>
-
-  <!-- Cột Khái Niệm -->
   <div style="flex: 1; max-width: 50%;">
     <h2 style="text-align: center; font-weight: bold; font-size: 22px; margin-bottom: 12px;">
       Khái Niệm
     </h2>
-    <!-- <p style="text-align: left; font-size: 18px; line-height: 1.6;"> -->
   <p style="text-align: left;">
 
 **Đang trong quá trình xây dựng!** <br>
-
-<!-- **Bài học:** Là những gì mới mà chúng ta chưa từng học.
-
-**Tâm đắc:** Là những gì chúng ta có thể ứng dụng cho cuộc sống của chúng ta trong tương lai.
-
-**Ngộ ra:** Là những gì chúng ta trăn trở mà chưa có lời giải, ngày hôm nay có lời giải.
-
-**Cách ấm vô minh:** <br>
-
-Đây là một thuật ngữ chỉ việc sau khi con người vào tử cung của người phụ nữ, do tác động của điện từ âm khiến cho tàng thức bị bôi đen nên con người không nhớ được nghiệp thức của hằng hà sa số đời trước.
-
-
-
-**Tổng nghiệp - Tổng nghiệp thức - Tổng nghiệp duyên - Tổng nghiệp quả** <br>
-
-**Tổng nghiệp:** Là tổng những suy nghĩ và hành động ở hằng hà sa số đời của con người. Có tổng nghiệp thức, tổng nghiệp duyên và tổng nghiệp quả.
-
-**Tổng nghiệp thức:** Là tổng những hiểu biết ở hằng hà sa số đời của con người.
-
-**Tổng nghiệp duyên:** Là tổng tất cả các mối nhân duyên với con người ở hằng hà sa số đời.
-
-**Tổng nghiệp quả:** Là tổng tất cả kết quả cuộc sống ở hằng hà sa số đời của con người.
- -->
-
   </p>
   </div>
 
@@ -97,11 +70,6 @@ lesson:
            style="width: 100%; height: 200px; object-fit: contain; border-radius: 4px; padding:10px;">
     </div>
   </a>
-  <!-- <a href="\" style="flex: 1 1 calc(25% - 12px); max-width: calc(25% - 12px); text-align: center;">
-    <div style="border: 1px solid #fff; border-radius: 8px; padding: 8px; background: #fff;">
-      <img src="/images/hinh4_nguyen_ly_anh_sang.jfif" alt="Hình 3"
-           style="width: 100%; height: 200px; object-fit: contain; border-radius: 4px; padding:10px;">
-    </div> -->
   </a>
   
 </div>

@@ -13,15 +13,8 @@ lesson:
     khaiNiem: "anh-huong"
     tuKhaiNiem: "nang-luc-tu-duy"
 ---
-
-<!-- # 01. TVHL Nhận thức về nhân quả -->
-
-<!-- **Mã hình:** WNT36003  
-**Khóa học:** THẤU HIỂU NỘI TÂM - KIẾN TẠO AN VUI -->
-
 <div style="display: flex; gap: 16px;">
 
-  <!-- Cột Hình Bài Học -->
   <div style="flex: 1; max-width: 50%;">
     <h2 style="text-align: center; font-weight: bold; font-size: 22px; margin-bottom: 12px;">
       Hình Bài Học
@@ -34,45 +27,11 @@ lesson:
     </a>
   </div>
 
-  <!-- Cột Khái Niệm -->
   <div style="flex: 1; max-width: 50%;">
     <h2 style="text-align: center; font-weight: bold; font-size: 22px; margin-bottom: 12px;">
       Khái Niệm
     </h2>
-    <!-- <p style="text-align: left; font-size: 18px; line-height: 1.6;"> -->
   <p style="text-align: left;">
-
-<!-- **Vũ trụ quan** là những kiến thức về tôn giáo (tín ngưỡng), liên quan đến những cái ẩn đằng sau con người: sau khi con người mất thân rồi đi về đâu, cùng với con người sống có các loài hữu hình, vô hình nào.
-
-**Thế giới quan** là những gì xung quanh con người, bao gồm sự hiểu biết về môi trường tự nhiên và xã hội. Nó liên quan đến các kiến thức khoa học mà con người tích lũy qua nhiều môn học và ngành khoa học khác nhau. 
-
-**Nhân sinh quan** là tri thức liên quan đến sự sinh trưởng và phát triển chung của con người. Nhân sinh của con người liên quan đến nội tâm, sức khỏe - sắc đẹp, mối quan hệ của con người và liên quan đến tài chính - là bốn nhóm hiểu biết nền tảng của nhân sinh. Nền tảng nhất của nhân sinh chính là nội tâm.
-
-**Nhân sinh quan** liên quan đến mối quan hệ giữa con người với nhau, sự sinh trưởng, tồn tại và phát triển của con người trong xã hội. Đây la lĩnh vực mà các qui luật nhân duyên và nhân quả được áp dụng một cách rõ ràng nhất , giúp con người hiểu và thực hành những điều tốt đẹp trong cuộc sống để đạt được những kết quả như mong muốn .
-
-**Thế giới quan** là tri thức liên quan đến thế giới xung quanh con người.
-
-**Vũ trụ quan** là những kiến thức về tôn giáo (tín ngưỡng), liên quan đến những cái ẩn đằng sau con người: sau khi con người mất thân rồi đi về đâu, cùng với con người sống có các loài hữu hình, vô hình nào.
-
-**Công Đức** tương ứng với điện từ Quang (điện từ cân bằng), chứa trong vỏ bọc tánh Chân thật, được tích tạo khi giúp người khác nâng tầm nhận thức nội tâm, nâng tầng bậc trí tuệ (tầng bậc 3), hay nói cách khác là giúp cho người khác nhận được Sự Chân thật nơi chính mình.
-
-Theo hệ quy chiếu của nhà Phật, Công Đức được tích tạo khi giúp cho con người giác ngộ và giải thoát.
-
-**Khối Công Đức** được khởi tạo sẽ giúp con người cân bằng nội tâm và khai mở trí tuệ.
-Phước Đức tương ứng với điện từ dương, chứa trong vỏ bọc tánh người, được tích tạo khi giúp người khác vui vẻ (hay nói cách khác là giúp người khác thoả mãn tham và tưởng về tài, về sắc, về danh, về thực, về thuỳ).
-
-**QUẢNG BÁ** <br>
-
-**Thông tin hóa** <br>
-Quảng bá là nhắc đi nhắc lại việc gì mà người khác làm cho mình, sự vật sự việc mang lại lợi ích cho mình với thái độ trân trọng và biết ơn.
-(Vẽ và nhắc đi nhắc lại bức tranh lợi ích với nguồn năng lượng trân trọng biết ơn).
-
-
-**Năng lượng hóa** <br>
-	Thực hành toàn diện 7 bố thí (đặc biệt là Tâm Thí).
-
-**Vật chất hóa**<br>
-	Chuyển giao hình ảnh tâm trí. -->
 
 Khi .... Vũ trụ quan thì thấu suốt **Nhân sinh quan** và triệt ngộ **Thế giới quan**.
 

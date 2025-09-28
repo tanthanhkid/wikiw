@@ -33,36 +33,12 @@ lesson:
       </div>
     </a>
   </div>
-
-  <!-- Cột Khái Niệm -->
   <div style="flex: 1; max-width: 50%;">
     <h2 style="text-align: center; font-weight: bold; font-size: 22px; margin-bottom: 12px;">
       Khái Niệm
-    </h2>
-    <!-- <p style="text-align: left; font-size: 18px; line-height: 1.6;"> -->
   <p style="text-align: left;">
 
 **Đang trong quá trình xây dựng!** <br>
-
-<!-- **NGỘ** Là trạng thái giao thoa giữa nghi vấn hay những trăn trở lâu ngày, tới một giây phút khi chúng ta hiểu thì vừa bừng sáng một trạng thái, tích tắc nội tâm chuyển từ nghi qua ngộ.
-
-**TIỂU NGỘ** (ngộ ra những cái nhỏ): Là 1 thuật ngữ chỉ về những cái ngộ, chỉ ảnh hướng vừa phải đến cuộc đời con người ở một khía cạnh nào đó.
-
-**ĐẠI NGỘ** (cái ngộ lớn): Là 1 thuật ngữ chỉ về những cái ngộ ảnh hưởng đến khía cạnh lớn, tác động đến cuộc đời con người.
-
-**ĐỐN NGỘ** Là một thuật ngữ chỉ về tiến độ của việc ngộ, khi rút ngắn thời gian để ngộ được điều gì đó thay vì phải dành thời gian dài mới hiểu được.
-
-**TRIỆT NGỘ** Là 1 thuật ngữ chỉ về việc khi con người ngộ vấn đề gì đó mà thấu suốt hết các vấn đề ở những khía cạnh khác.
-
-**GIÁC NGỘ** Chính là sự thức tỉnh và hiểu rõ ra một chân lý nào đó.
-
-**MONG MUỐN, TIÊU CỰC - TÍCH CỰC** <br>
-
-**MONG MUỐN** là hình ảnh được lặp đi, lặp lại thường xuyên trong tâm trí.
-
-**TÍCH CỰC** Là những gì thuận chiều mong muốn
-
-**TIÊU CỰC** Là những gì ngược chiều mong muốn -->
 
   </p>
   </div>
