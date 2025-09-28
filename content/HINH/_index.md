@@ -343,8 +343,8 @@ weight: 1
     <img src="/images/hinh23a.png" alt="Hình 23">
     <p>X.3-Hệ quy chiếu công thức Cội Nguồn Cuộc Sống </p>
     <div class="buttons">
-      <a href="/">Khái Niệm</a>
-      <a href="/">Bài Học</a>
+      <a href="../TU-KHAINIEM/cuoc-song-uoc-mo/">Khái Niệm</a>
+      <a href="../BAI-HOC/07-tvhl-cong-thuc-coi-nguon-cuoc-song/">Bài Học</a>
     </div>
   </div>
 
@@ -397,8 +397,8 @@ weight: 1
     <img src="/images/hinh29a.png" alt="Hình 29">
     <p>Cấu trúc con người </p>
     <div class="buttons">
-      <a href="/">Khái Niệm</a>
-      <a href="/">Bài Học</a>
+      <a href="../TU-KHAINIEM/con-nguoi/">Khái Niệm</a>
+      <a href="../BAI-HOC/09-tvhl-cau-truc-con-nguoi/">Bài Học</a>
     </div>
   </div>
 
