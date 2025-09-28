@@ -1,4 +1,4 @@
-// Main JavaScript for WikiW theme
+// Main JavaScript for HappyMarketDocs theme
 
 document.addEventListener('DOMContentLoaded', function() {
     // Disable all popups on tu-khainiem pages
@@ -66,66 +66,66 @@ document.addEventListener('DOMContentLoaded', function() {
         // TOC highlighting based on scroll position
         const tocContainer = document.querySelector('.toc-container');
         if (tocContainer) {
-        const tocLinks = tocContainer.querySelectorAll('a[href^="#"]');
-        const headings = Array.from(tocLinks).map(link => {
-            const id = link.getAttribute('href').substring(1);
-            return {
-                id: id,
-                element: document.getElementById(id),
-                link: link
-            };
-        }).filter(item => item.element);
-        
-        function updateTOCHighlight() {
-            const scrollTop = window.pageYOffset;
-            const windowHeight = window.innerHeight;
-            const documentHeight = document.documentElement.scrollHeight;
+            const tocLinks = tocContainer.querySelectorAll('a[href^="#"]');
+            const headings = Array.from(tocLinks).map(link => {
+                const id = link.getAttribute('href').substring(1);
+                return {
+                    id: id,
+                    element: document.getElementById(id),
+                    link: link
+                };
+            }).filter(item => item.element);
             
-            // Remove active class from all links
-            tocLinks.forEach(link => link.classList.remove('active'));
-            
-            // Find the current heading
-            let currentHeading = null;
-            
-            for (let i = headings.length - 1; i >= 0; i--) {
-                const heading = headings[i];
-                const rect = heading.element.getBoundingClientRect();
+            function updateTOCHighlight() {
+                const scrollTop = window.pageYOffset;
+                const windowHeight = window.innerHeight;
+                const documentHeight = document.documentElement.scrollHeight;
                 
-                if (rect.top <= 100) { // 100px offset from top
-                    currentHeading = heading;
-                    break;
+                // Remove active class from all links
+                tocLinks.forEach(link => link.classList.remove('active'));
+                
+                // Find the current heading
+                let currentHeading = null;
+                
+                for (let i = headings.length - 1; i >= 0; i--) {
+                    const heading = headings[i];
+                    const rect = heading.element.getBoundingClientRect();
+                    
+                    if (rect.top <= 100) { // 100px offset from top
+                        currentHeading = heading;
+                        break;
+                    }
+                }
+                
+                // If no heading is found and we're at the top, highlight the first one
+                if (!currentHeading && scrollTop < 200) {
+                    currentHeading = headings[0];
+                }
+                
+                // If no heading is found and we're at the bottom, highlight the last one
+                if (!currentHeading && scrollTop + windowHeight >= documentHeight - 100) {
+                    currentHeading = headings[headings.length - 1];
+                }
+                
+                if (currentHeading) {
+                    currentHeading.link.classList.add('active');
                 }
             }
             
-            // If no heading is found and we're at the top, highlight the first one
-            if (!currentHeading && scrollTop < 200) {
-                currentHeading = headings[0];
+            // Update TOC on scroll
+            let ticking = false;
+            function requestTick() {
+                if (!ticking) {
+                    requestAnimationFrame(updateTOCHighlight);
+                    ticking = true;
+                }
             }
             
-            // If no heading is found and we're at the bottom, highlight the last one
-            if (!currentHeading && scrollTop + windowHeight >= documentHeight - 100) {
-                currentHeading = headings[headings.length - 1];
-            }
+            window.addEventListener('scroll', requestTick);
+            window.addEventListener('resize', requestTick);
             
-            if (currentHeading) {
-                currentHeading.link.classList.add('active');
-            }
-        }
-        
-        // Update TOC on scroll
-        let ticking = false;
-        function requestTick() {
-            if (!ticking) {
-                requestAnimationFrame(updateTOCHighlight);
-                ticking = true;
-            }
-        }
-        
-        window.addEventListener('scroll', requestTick);
-        window.addEventListener('resize', requestTick);
-        
-        // Initial update
-        updateTOCHighlight();
+            // Initial update
+            updateTOCHighlight();
         }
     }
     
@@ -160,7 +160,7 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
     
-    // Dark mode toggle (if implemented) - Only on bai-hoc pages
+    // Dark mode toggle - Only on bai-hoc pages
     if (window.location.pathname.includes('/bai-hoc/')) {
         const darkModeToggle = document.querySelector('.dark-mode-toggle');
         if (darkModeToggle) {
@@ -256,8 +256,6 @@ document.addEventListener('DOMContentLoaded', function() {
 function performSearch(query) {
     if (window.location.pathname.includes('/tu-khainiem/') || !window.location.pathname.includes('/bai-hoc/')) return;
     
-    // This would typically make an API call to a search service
-    // For now, we'll implement a simple client-side search
     const searchResults = searchContent(query);
     displaySearchResults(searchResults);
 }
@@ -386,4 +384,3 @@ if ('performance' in window) {
         }, 0);
     });
 }
-

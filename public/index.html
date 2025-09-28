@@ -195,25 +195,17 @@
                 <article class="prose prose-lg max-w-none">
                     
 
-<div class="banner-carousel" style="position:relative;max-width:100%;overflow:hidden;margin:auto; margin-left: 4%;">
-  <div class="banner-container" style="position:relative;width:100%;padding-top:56.25%; /* tỷ lệ 16:9 */">
-    <div class="banner-slides" 
-         style="position:absolute;top:0;left:0;width:100%;height:100%;">
-
-      <img src="/images/banner1min.png" alt="Banner 1" class="banner-img" 
-           style="width:100%;height:100%;object-fit:cover;display:block;position:absolute;top:0;left:0;">
-      <img src="/images/banner2min.png" alt="Banner 2" class="banner-img" 
-           style="width:100%;height:100%;object-fit:cover;display:none;position:absolute;top:0;left:0;">
-      <img src="/images/banner3min.png" alt="Banner 3" class="banner-img" 
-           style="width:100%;height:100%;object-fit:cover;display:none;position:absolute;top:0;left:0;">
-      <img src="/images/banner4min.png" alt="Banner 4" class="banner-img" 
-           style="width:100%;height:100%;object-fit:cover;display:none;position:absolute;top:0;left:0;">
-      <img src="/images/banner5min.png" alt="Banner 5" class="banner-img" 
-           style="width:100%;height:100%;object-fit:cover;display:none;position:absolute;top:0;left:0;">
-      <img src="/images/banner6min.png" alt="Banner 6" class="banner-img" 
-           style="width:100%;height:100%;object-fit:cover;display:none;position:absolute;top:0;left:0;">
-      <img src="/images/banner7min.png" alt="Banner 7" class="banner-img" 
-           style="width:100%;height:100%;object-fit:cover;display:none;position:absolute;top:0;left:0;">
+<div class="banner-carousel">
+  <div class="banner-container">
+    <div class="banner-slides">
+      
+      <img src="/images/banner1min.png" alt="Banner 1" class="banner-img active">
+      <img src="/images/banner2min.png" alt="Banner 2" class="banner-img">
+      <img src="/images/banner3min.png" alt="Banner 3" class="banner-img">
+      <img src="/images/banner4min.png" alt="Banner 4" class="banner-img">
+      <img src="/images/banner5min.png" alt="Banner 5" class="banner-img">
+      <img src="/images/banner6min.png" alt="Banner 6" class="banner-img">
+      <img src="/images/banner7min.png" alt="Banner 7" class="banner-img">
     </div>
 
     
@@ -306,7 +298,12 @@
 
 <script>
 let slideIndex = 1;
-showSlides(slideIndex);
+
+
+document.addEventListener('DOMContentLoaded', function() {
+  console.log("🚀 DOM loaded, starting carousel...");
+  showSlides(slideIndex);
+});
 
 function currentSlide(n) {
   slideIndex = n;
@@ -322,7 +319,7 @@ function showSlides(n) {
 
   
   for (let i = 0; i < slides.length; i++) {
-    slides[i].style.display = "none";
+    slides[i].classList.remove("active");
   }
   
   for (let i = 0; i < dots.length; i++) {
@@ -330,10 +327,11 @@ function showSlides(n) {
   }
 
   
-  slides[slideIndex-1].style.display = "block";
-  dots[slideIndex-1].style.background = "#717171";
-
-  console.log("👉 Đang hiển thị slide:", slideIndex);
+  if (slides[slideIndex-1]) {
+    slides[slideIndex-1].classList.add("active");
+    dots[slideIndex-1].style.background = "#717171";
+    console.log("✅ Đang hiển thị slide:", slideIndex);
+  }
 }
 
 
