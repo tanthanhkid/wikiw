@@ -16,5 +16,5 @@ categories: ["TVHL Giàu Trí tuệ"]
 ## Khái Niệm
 
 “
-Khôn ngoan: Là người biết ứng dụng hoặc biết thuận theo quy luật tự nhiên, quy luật xã hội để đạt mục tiêu cuộc đời.
+**Khôn ngoan:** Là người biết ứng dụng hoặc biết thuận theo quy luật tự nhiên, quy luật xã hội để đạt mục tiêu cuộc đời.
 ”

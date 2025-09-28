@@ -43,9 +43,9 @@ lesson:
     <!-- <p style="text-align: left; font-size: 18px; line-height: 1.6;"> -->
   <p style="text-align: left;">
 
-**QUY LUẬT** <br>
+**Đang trong quá trình xây dựng và phát triển!** <br>
 
-**Quy luật** là mối liên hệ bản chất – có tính bản chất – tất nhiên – phổ biến – lặp đi lặp lại - có tính chu kỳ mạnh mẽ giữa các đối tượng sự vật, sự việc, hiện tượng, giữa các nhân tố tạo thành đối tượng, giữa các thuộc tính của cùng một sự vật hiện tượng.
+<!-- **Quy luật** là mối liên hệ bản chất – có tính bản chất – tất nhiên – phổ biến – lặp đi lặp lại - có tính chu kỳ mạnh mẽ giữa các đối tượng sự vật, sự việc, hiện tượng, giữa các nhân tố tạo thành đối tượng, giữa các thuộc tính của cùng một sự vật hiện tượng.
 
 **QUY LUẬT THU HÚT** <br>
 8 yếu tố thu hút
@@ -125,7 +125,7 @@ Trọng điểm của con người, là yêu thương bản thân mình
 
 Yêu bản thân mình trước, tự đáp ứng cho bản thân đủ đầy về 6 nhu cầu cơ bản thì không đòi hỏi người khác nữa (lúc
 đấy mình mới đặt lợi ích của người ta cao hơn của mình) ⇒
-lúc đó mới ảnh hưởng được.
+lúc đó mới ảnh hưởng được. -->
 
 
   </p>

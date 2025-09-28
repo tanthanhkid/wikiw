@@ -1,154 +1,82 @@
 {{ define "main" }}
-<!-- Hero Section -->
-<section id="hero" class="bg-gradient-to-r from-orange-500 to-orange-600 text-white py-20">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="text-center">
-            <h1 class="text-4xl md:text-6xl font-bold mb-6">
-                Phát triển Nội tâm & Huấn luyện
-            </h1>
-            <p class="text-xl md:text-2xl mb-8 text-orange-100">
-                Kiến thức chuyên sâu từ A-Z để phát triển toàn diện và thành công trong cuộc sống
-            </p>
-            <div class="flex flex-col sm:flex-row gap-4 justify-center">
-                <a href="/khai-niem-nguon/" class="bg-white text-orange-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-colors">
-                    Khái niệm nguồn
-                </a>
-                <a href="/khoa-hoc/" class="border-2 border-white text-white px-8 py-3 rounded-lg font-semibold hover:bg-white hover:text-orange-600 transition-colors">
-                    Khóa học
-                </a>
-            </div>
-        </div>
-    </div>
-</section>
+<!-- Banner Carousel -->
+<div class="banner-carousel" style="position:relative;max-width:100%;overflow:hidden;margin:auto;">
+  <div class="banner-container" style="position:relative;width:100%;padding-top:56.25%; /* tỷ lệ 16:9 */">
+    <div class="banner-slides" 
+         style="position:absolute;top:0;left:0;width:100%;height:100%;">
 
-<!-- Features Section -->
-<section id="features" class="py-16 bg-gray-50">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="text-center mb-12">
-            <h2 class="text-3xl font-bold text-gray-900 mb-4">Tại sao chọn HappyMarketDocs?</h2>
-            <p class="text-xl text-gray-600">Nguồn tài liệu đáng tin cậy và cập nhật nhất về phát triển nội tâm và huấn luyện</p>
-        </div>
-        
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
-            <div class="text-center">
-                <div class="w-16 h-16 bg-orange-100 rounded-full flex items-center justify-center mx-auto mb-4">
-                    <svg class="w-8 h-8 text-orange-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
-                    </svg>
-                </div>
-                <h3 class="text-xl font-semibold text-gray-900 mb-2">Nội dung chuyên sâu</h3>
-                <p class="text-gray-600">Tài liệu được biên soạn bởi các chuyên gia có kinh nghiệm thực tế trong lĩnh vực tư vấn và huấn luyện nội tâm.</p>
-            </div>
-            
-            <div class="text-center">
-                <div class="w-16 h-16 bg-orange-100 rounded-full flex items-center justify-center mx-auto mb-4">
-                    <svg class="w-8 h-8 text-orange-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
-                    </svg>
-                </div>
-                <h3 class="text-xl font-semibold text-gray-900 mb-2">Phương pháp khoa học</h3>
-                <p class="text-gray-600">Áp dụng các phương pháp và nguyên lý đã được kiểm chứng trong thực tế.</p>
-            </div>
-            
-            <div class="text-center">
-                <div class="w-16 h-16 bg-orange-100 rounded-full flex items-center justify-center mx-auto mb-4">
-                    <svg class="w-8 h-8 text-orange-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
-                    </svg>
-                </div>
-                <h3 class="text-xl font-semibold text-gray-900 mb-2">Dễ sử dụng</h3>
-                <p class="text-gray-600">Giao diện thân thiện, tìm kiếm nhanh chóng và điều hướng trực quan.</p>
-            </div>
-        </div>
+      <img src="/images/banner1.png" alt="Banner 1" class="banner-img" 
+           style="width:100%;height:100%;object-fit:cover;display:block;position:absolute;top:0;left:0;">
+      <img src="/images/banner2.png" alt="Banner 2" class="banner-img" 
+           style="width:100%;height:100%;object-fit:cover;display:none;position:absolute;top:0;left:0;">
+      <img src="/images/banner3.png" alt="Banner 3" class="banner-img" 
+           style="width:100%;height:100%;object-fit:cover;display:none;position:absolute;top:0;left:0;">
+      <img src="/images/banner4.png" alt="Banner 4" class="banner-img" 
+           style="width:100%;height:100%;object-fit:cover;display:none;position:absolute;top:0;left:0;">
+      <img src="/images/banner5.png" alt="Banner 5" class="banner-img" 
+           style="width:100%;height:100%;object-fit:cover;display:none;position:absolute;top:0;left:0;">
+      <img src="/images/banner6.png" alt="Banner 6" class="banner-img" 
+           style="width:100%;height:100%;object-fit:cover;display:none;position:absolute;top:0;left:0;">
+      <img src="/images/banner7.png" alt="Banner 7" class="banner-img" 
+           style="width:100%;height:100%;object-fit:cover;display:none;position:absolute;top:0;left:0;">
     </div>
-</section>
 
-<!-- Main Content Sections -->
-<section id="main-content" class="py-16">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="text-center mb-12">
-            <h2 class="text-3xl font-bold text-gray-900 mb-4">Tài liệu chính</h2>
-            <p class="text-xl text-gray-600">Khám phá các chủ đề quan trọng về phát triển nội tâm và huấn luyện</p>
-        </div>
-        
-        <div class="max-w-4xl mx-auto">
-            <div class="bg-white border border-gray-200 rounded-lg p-8 hover:shadow-lg transition-shadow">
-                <div class="text-center">
-                    <div class="w-16 h-16 bg-orange-100 rounded-lg flex items-center justify-center mx-auto mb-6">
-                        <svg class="w-8 h-8 text-orange-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
-                        </svg>
-                    </div>
-                    <h3 class="text-2xl font-semibold text-gray-900 mb-4">Khái niệm nguồn</h3>
-                    <p class="text-gray-600 mb-6">Bộ khái niệm cốt lõi cho tư vấn & huấn luyện nội tâm. Bao gồm quy luật, nguyên lý, công thức, năng lực và các khái niệm quan trọng khác.</p>
-                    <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
-                        <div class="text-center p-4 bg-gray-50 rounded-lg">
-                            <h4 class="font-semibold text-gray-900 mb-2">Quy luật</h4>
-                            <p class="text-sm text-gray-600">5 quy luật cơ bản</p>
-                        </div>
-                        <div class="text-center p-4 bg-gray-50 rounded-lg">
-                            <h4 class="font-semibold text-gray-900 mb-2">Nguyên lý</h4>
-                            <p class="text-sm text-gray-600">4 nguyên lý nền tảng</p>
-                        </div>
-                        <div class="text-center p-4 bg-gray-50 rounded-lg">
-                            <h4 class="font-semibold text-gray-900 mb-2">Công thức</h4>
-                            <p class="text-sm text-gray-600">4 công thức thực hành</p>
-                        </div>
-                    </div>
-                    <a href="/khai-niem-nguon/" class="inline-flex items-center bg-orange-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-orange-700 transition-colors">
-                        Khám phá ngay
-                        <svg class="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
-                        </svg>
-                    </a>
-                </div>
-            </div>
-        </div>
+    <!-- Dots -->
+    <div class="banner-dots" style="text-align:center;position:absolute;bottom:15px;width:100%;">
+      <span class="dot" onclick="currentSlide(1)" style="height:12px;width:12px;margin:0 4px;background:#717171;border-radius:50%;display:inline-block;cursor:pointer;"></span>
+      <span class="dot" onclick="currentSlide(2)" style="height:12px;width:12px;margin:0 4px;background:#bbb;border-radius:50%;display:inline-block;cursor:pointer;"></span>
+      <span class="dot" onclick="currentSlide(3)" style="height:12px;width:12px;margin:0 4px;background:#bbb;border-radius:50%;display:inline-block;cursor:pointer;"></span>
+      <span class="dot" onclick="currentSlide(4)" style="height:12px;width:12px;margin:0 4px;background:#bbb;border-radius:50%;display:inline-block;cursor:pointer;"></span>
+      <span class="dot" onclick="currentSlide(5)" style="height:12px;width:12px;margin:0 4px;background:#bbb;border-radius:50%;display:inline-block;cursor:pointer;"></span>
+      <span class="dot" onclick="currentSlide(6)" style="height:12px;width:12px;margin:0 4px;background:#bbb;border-radius:50%;display:inline-block;cursor:pointer;"></span>
+      <span class="dot" onclick="currentSlide(7)" style="height:12px;width:12px;margin:0 4px;background:#bbb;border-radius:50%;display:inline-block;cursor:pointer;"></span>
     </div>
-</section>
+  </div>
+</div>
 
-<!-- Stats Section -->
-<section id="stats" class="py-16 bg-gray-900 text-white">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="text-center mb-12">
-            <h2 class="text-3xl font-bold mb-4">Thống kê</h2>
-            <p class="text-xl text-gray-300">Con số ấn tượng về tài liệu của chúng tôi</p>
-        </div>
-        
-            <div class="grid grid-cols-1 md:grid-cols-4 gap-8 text-center">
-            <div>
-                <div class="text-4xl font-bold text-orange-500 mb-2">100+</div>
-                <div class="text-gray-300">Khái niệm chuyên môn</div>
-            </div>
-            <div>
-                <div class="text-4xl font-bold text-orange-500 mb-2">4</div>
-                <div class="text-gray-300">Nhóm khóa học</div>
-            </div>
-            <div>
-                <div class="text-4xl font-bold text-orange-500 mb-2">15</div>
-                <div class="text-gray-300">Nhóm khái niệm nguồn</div>
-            </div>
-            <div>
-                <div class="text-4xl font-bold text-orange-500 mb-2">A-Z</div>
-                <div class="text-gray-300">Hướng dẫn đầy đủ</div>
-            </div>
-        </div>
-    </div>
-</section>
+<!-- Main Content -->
+<div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+  <article class="prose prose-lg max-w-none">
+    {{ .Content }}
+  </article>
+</div>
 
-<!-- CTA Section -->
-<section id="cta" class="py-16 bg-orange-50">
-    <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        <h2 class="text-3xl font-bold text-gray-900 mb-4">Sẵn sàng bắt đầu?</h2>
-        <p class="text-xl text-gray-600 mb-8">Tham gia cộng đồng và bắt đầu hành trình phát triển nội tâm của bạn ngay hôm nay.</p>
-        <div class="flex flex-col sm:flex-row gap-4 justify-center">
-            <a href="/khai-niem-nguon/" class="bg-orange-600 text-white px-8 py-3 rounded-lg font-semibold hover:bg-orange-700 transition-colors">
-                Khám phá ngay
-            </a>
-            <a href="/khoa-hoc/" class="border-2 border-orange-600 text-orange-600 px-8 py-3 rounded-lg font-semibold hover:bg-orange-600 hover:text-white transition-colors">
-                Xem khóa học
-            </a>
-        </div>
-    </div>
-</section>
+<script>
+let slideIndex = 1;
+showSlides(slideIndex);
+
+function currentSlide(n) {
+  slideIndex = n;
+  showSlides(slideIndex);
+}
+
+function showSlides(n) {
+  let slides = document.getElementsByClassName("banner-img");
+  let dots = document.getElementsByClassName("dot");
+
+  if (n > slides.length) { slideIndex = 1 }
+  if (n < 1) { slideIndex = slides.length }
+
+  // Ẩn tất cả ảnh
+  for (let i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";
+  }
+  // Reset dot
+  for (let i = 0; i < dots.length; i++) {
+    dots[i].style.background = "#bbb";
+  }
+
+  // Hiện ảnh active
+  slides[slideIndex-1].style.display = "block";
+  dots[slideIndex-1].style.background = "#717171";
+
+  console.log("👉 Đang hiển thị slide:", slideIndex);
+}
+
+// Auto slide every 5 seconds
+setInterval(function() {
+  slideIndex++;
+  showSlides(slideIndex);
+}, 5000);
+</script>
 {{ end }}

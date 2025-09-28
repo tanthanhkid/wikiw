@@ -42,8 +42,8 @@ lesson:
     <!-- <p style="text-align: left; font-size: 18px; line-height: 1.6;"> -->
   <p style="text-align: left;">
 
-**CON NGƯỜI**
-
+**Đang trong quá trình xây dựng và phát triển!**
+<!-- 
 **Thông tin hóa:** Là một thực thể tự nhiên mang đặc tính xã hội, vận hành thống nhất với các quy luật tự nhiên - xã hội. Có cấu trúc bao gồm: Tâm, Tánh, Tình, Thân. Có trạng thái nhận thức và cảm xúc nội tâm. Có khả năng kiến tạo, làm chủ cuộc sống của chính mình.
 
 **Năng lượng hóa:** Cỗ máy Công Đức - Phước Đức.
@@ -149,7 +149,7 @@ Thời gian về bản chất chính là thay đổi tần số rung động đ�
 
 **Tổng nghiệp quả** là tổng tất cả kết quả cuộc sống ở hằng hà sa số đời của con người.
 
-Khi chưa có tư duy, cuộc đời của con người do tổng nghiệp quyết định, khi đã có tư duy, cuộc đời của con người do tổng nghiệp quyết định nhưng chúng ta được quyền lựa chọn tổng nghiệp phù hợp theo mong muốn
+Khi chưa có tư duy, cuộc đời của con người do tổng nghiệp quyết định, khi đã có tư duy, cuộc đời của con người do tổng nghiệp quyết định nhưng chúng ta được quyền lựa chọn tổng nghiệp phù hợp theo mong muốn -->
 
   </p>
   </div>
@@ -246,4 +246,4 @@ Khi chưa có tư duy, cuộc đời của con người do tổng nghiệp quy�
 
 - [1.Trọng Điểm Nhận Thức](../../KHAI-NIEM-NGUON/tvhl-cau-truc-con-nguoi/trong-diem-nhan-thuc)
 
-- [2.Trọng Điểm Tri Thức](../../KHAI-NIEM-NGUON/tvhl-cau-truc-con-nguoi/trong-diem-nhan-thuc)
+- [2.Trọng Điểm Tri Thức](../../KHAI-NIEM-NGUON/tvhl-cau-truc-con-nguoi/trong-tam-tri-thuc)

@@ -42,9 +42,9 @@ lesson:
     <!-- <p style="text-align: left; font-size: 18px; line-height: 1.6;"> -->
   <p style="text-align: left;">
 
-**DÍNH HÌNH, TÍNH KHÔNG, NIỀM TIN, MONG MUỐN** <br>
+**Đang trong quá trình xây dựng và phát triển!** <br>
 
-**DÍNH HÌNH** (dùng thuật ngữ nội tâm): Là dính mắc một hình ảnh về một đối tượng mà không thể thay đổi.
+<!-- **DÍNH HÌNH** (dùng thuật ngữ nội tâm): Là dính mắc một hình ảnh về một đối tượng mà không thể thay đổi.
 
 **Tính không:** Là mọi sự vật, sự việc, hiện tượng, con người không là gì, không là ai, không có ý nghĩa gì cho đến khi có đối tượng nhận thức về nó.
 
@@ -56,7 +56,7 @@ Người có niềm tin tích cực là người có trạng thái cảm nhận 
 
 Người có niềm tin tiêu cực là người có trạng thái cảm nhận nội tâm rằng bản thân chưa đủ đầy nguồn lực để sở hữu điều mà tâm trí muốn hướng đến.
 
-**Mong muốn thật sự:** là hình ảnh được lặp đi lặp lại trong tâm trí.
+**Mong muốn thật sự:** là hình ảnh được lặp đi lặp lại trong tâm trí. -->
 
   </p>
   </div>
@@ -119,4 +119,4 @@ Người có niềm tin tiêu cực là người có trạng thái cảm nhận 
 <!-- - [1.Trọng Điểm Tri Thức](../../KHAI-NIEM-NGUON/tvhl-nguyen-ly-vong-tri-thuc/trong-tam-tri-thuc) -->
 - [1.Trọng Điểm Nhận Thức](../../KHAI-NIEM-NGUON/tvhl-cong-thuc-coi-nguon-cuoc-song/trong-diem-nhan-thuc)
 
-- [2.Trọng Điểm Tri Thức](../../KHAI-NIEM-NGUON/tvhl-cong-thuc-coi-nguon-cuoc-song/trong-diem-nhan-thuc)
+- [2.Trọng Điểm Tri Thức](../../KHAI-NIEM-NGUON/tvhl-cong-thuc-coi-nguon-cuoc-song/trong-tam-tri-thuc)

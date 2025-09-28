@@ -45,6 +45,14 @@ taxonomies:
   tag: tags
   series: series
 
+# Cấu hình sections chính
+mainSections:
+  - "bai-hoc"
+  - "khoa-hoc"
+  - "khai-niem-nguon"
+  - "tu-khainiem"
+  - "hinh"
+
 # Cấu hình markdown
 markup:
   goldmark:

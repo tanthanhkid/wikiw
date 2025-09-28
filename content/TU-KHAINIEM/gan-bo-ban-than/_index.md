@@ -15,7 +15,9 @@ categories: ["TVHL Giàu Nhân cách"]
 
 ## Khái Niệm
 
-“Thông tin hóa: có cảm giác vui vẻ, an toàn, tin tưởng, muốn ở cùng chính mình thường xuyên.
-Năng lượng hóa: cảm nhận đủ đầy thường trực khi ở bên cạnh bản thân (an vui về bản thân, bao dung bản thân, trân trọng – biết ơn bản thân).
-Vật chất hóa: người bạn đồng hành trọn đời của bản thân.
+“**Thông tin hóa:** có cảm giác vui vẻ, an toàn, tin tưởng, muốn ở cùng chính mình thường xuyên.
+
+**Năng lượng hóa:** cảm nhận đủ đầy thường trực khi ở bên cạnh bản thân (an vui về bản thân, bao dung bản thân, trân trọng – biết ơn bản thân).
+
+**Vật chất hóa:** người bạn đồng hành trọn đời của bản thân.
 ”

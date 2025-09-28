@@ -42,8 +42,8 @@ lesson:
     <!-- <p style="text-align: left; font-size: 18px; line-height: 1.6;"> -->
   <p style="text-align: left;">
 
-**HIỆN THỰC** <br>
-
+**Đang trong quá trình xây dựng và phát triển!** <br>
+<!-- 
 **Biểu hiện vật chất**
 
 Bộc lộ ra bên ngoài cái yếu tố nào đó.
@@ -65,7 +65,7 @@ là khái niệm bao gồm cái Biết, cái Tin, cái Hiểu.
 **Hệ quy chiếu**
 là khái niệm nguồn của nguồn, khái niệm nguồn sơ khai nền tảng, từ đó giúp chúng ta phát triển thêm những khái niệm nguồn khác.
 
-**Hệ quy chiếu chuẩn** là khái niệm nguồn của nguồn, từ đó giúp chúng ta phát triển thêm những khái niệm nguồn có lợi.
+**Hệ quy chiếu chuẩn** là khái niệm nguồn của nguồn, từ đó giúp chúng ta phát triển thêm những khái niệm nguồn có lợi. -->
 
 
   </p>
@@ -129,4 +129,4 @@ là khái niệm nguồn của nguồn, khái niệm nguồn sơ khai nền tả
 <!-- - [1.Trọng Điểm Tri Thức](../../KHAI-NIEM-NGUON/tvhl-nguyen-ly-vong-tri-thuc/trong-tam-tri-thuc) -->
 - [1.Trọng Điểm Nhận Thức](../../KHAI-NIEM-NGUON/tvhl-tam-giac-hien-thuc/trong-diem-nhan-thuc)
 
-- [2.Trọng Điểm Tri Thức](../../KHAI-NIEM-NGUON/tvhl-tam-giac-hien-thuc/trong-diem-nhan-thuc)
+- [2.Trọng Điểm Tri Thức](../../KHAI-NIEM-NGUON/tvhl-tam-giac-hien-thuc/trong-tam-tri-thuc)

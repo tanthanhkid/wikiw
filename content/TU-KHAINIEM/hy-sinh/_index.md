@@ -15,4 +15,5 @@ categories: [""]
 
 ## Khái Niệm
 
-“Đang trong quá trình bổ sung!”
+**Hy sinh:** Hy là hy vọng, sinh là sinh trưởng phát triển. **Hy sinh** là vì 1 điều tốt hơn sẽ sinh trưởng trong tương lai
+(VD: Phụ nữ có thói quen đặt lợi ích của con của chồng mình của gia đình mình cao hơn lợi ích của mình)

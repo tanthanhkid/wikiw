@@ -11,9 +11,7 @@ categories: [""]
 <!-- # 1. TVHL Nhận thức về nhân quả -->
 
 <div style="font-size:20px;">
-<span style="font-weight: bold"> TRỌNG ĐIỂM NHẬN THỨC <span>
-
-
+<span style="font-weight: bold"> TRỌNG ĐIỂM NHẬN THỨC </span><br>
 01. Tập trung vào quản trị nhân quả nhân sinh quan.<br>
 02. Tâm thức quyết định tư duy, tư duy quyết định hành vi. Quản trị được tâm thức thì quản trị được nhân quả.<br>
 03. Quản trị Nhân thì không lo về Quả.<br>

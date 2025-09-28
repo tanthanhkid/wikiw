@@ -16,7 +16,7 @@ categories: ["TVHL Cấu trúc con người, TVHL Giàu Tâm thái"]
 ## Khái Niệm
 
 “ 
-Làm chủ nội tâm là chủ động lựa chọn và chịu trách nhiệm với lựa chọn bên trong nội tâm để làm chủ hoàn cảnh bên ngoài.
+**Làm chủ nội tâm** là chủ động lựa chọn và chịu trách nhiệm với lựa chọn bên trong nội tâm để làm chủ hoàn cảnh bên ngoài.
 ------------------------------------------------
-Làm chủ nội tâm: là chủ động lựa chọn và chịu trách nhiệm với lựa chọn bên trong nội tâm để làm chủ hoàn cảnh bên ngoài.
+**Làm chủ nội tâm** là chủ động lựa chọn và chịu trách nhiệm với lựa chọn bên trong nội tâm để làm chủ hoàn cảnh bên ngoài.
 ”

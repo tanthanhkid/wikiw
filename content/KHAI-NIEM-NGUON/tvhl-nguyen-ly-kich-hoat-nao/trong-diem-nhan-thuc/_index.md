@@ -10,8 +10,8 @@ categories: [""]
 
 <!-- # 1. TVHL Nhận thức về nhân quả -->
 
-## TRỌNG ĐIỂM NHẬN THỨC
 <div style="font-size:20px;">
+<span style="font-weight: bold"> TRỌNG ĐIỂM NHẬN THỨC <span>
 Thuận Quy Luật - Nguyên Lý <br>
 
 -- Ứng dụng nguyên lý kích hoạt não (BH-TĐ-NR) là cách đơn giản, tối ưu và hiệu quả để kích hoạt tổng nghiệp về tri thức nhân sinh - Kích hoạt não<br>

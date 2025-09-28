@@ -15,8 +15,6 @@ categories: ["TVHL Nguyên lý nghi vấn thuận chiều mong muốn, TVHL Côn
 
 ## Khái Niệm
 
-“ 
-MONG MUỐN là hình ảnh được lặp đi, lặp lại thường xuyên trong tâm trí.
+**MONG MUỐN** là hình ảnh được lặp đi, lặp lại thường xuyên trong tâm trí.
 -------------------------
-Mong muốn là trạng thái khao khát về một điều gì mà chúng ta không có trong hiện tại.
-”
+**Mong muốn** là trạng thái khao khát về một điều gì mà chúng ta không có trong hiện tại.

@@ -13,18 +13,19 @@ categories: [""]
 **Mã khái niệm:** NT0802  
 **Nhóm:** XVI. Nguyên Lý Ánh Sáng -->
 
-## Trọng Điểm Tri Thức
-
-1. Sự chân thật
-2. Đồ hình Cấu trúc con người
-3. Cách gọi tên Cấu trúc con người
-4. 16 Tánh người, bát đại duyên hợp
-5. Biên độ cấp độ dao động của 16 Tánh người
-6. Tâm - Tánh - Tình, Nội tâm, Làm chủ Nội tâm
-7. Tánh không nội tâm - An vui
-8. Ba Khối đức: Công đức, Phước đức, Ác đức
-9. Tổng nghiệp, Công thức gọi Tổng nghiệp, Vi biệt nghiệp
-10. Nguyên lý vận hành của Tâm thức
-11. Vật chất, Không gian, Thời gian
-12. Nguyên lý vận hành của Tiềm thức
+<div style="font-size:20px;">
+<span style="font-weight: bold"> TRỌNG ĐIỂM TRI THỨC </span><br/>
+01. Sự chân thật<br/>
+02. Đồ hình Cấu trúc con người<br/>
+03. Cách gọi tên Cấu trúc con người<br/>
+04. 16 Tánh người, bát đại duyên hợp<br/>
+05. Biên độ cấp độ dao động của 16 Tánh người<br/>
+06. Tâm - Tánh - Tình, Nội tâm, Làm chủ Nội tâm<br/>
+07. Tánh không nội tâm - An vui<br/>
+08. Ba Khối đức: Công đức, Phước đức, Ác đức<br/>
+09. Tổng nghiệp, Công thức gọi Tổng nghiệp, Vi biệt nghiệp<br/>
+10. Nguyên lý vận hành của Tâm thức<br/>
+11. Vật chất, Không gian, Thời gian<br/>
+12. Nguyên lý vận hành của Tiềm thức<br/>
+</div>
 

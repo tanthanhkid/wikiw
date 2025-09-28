@@ -15,7 +15,7 @@ categories: ["TVHL Giàu Trí tuệ"]
 
 ## Khái Niệm
 
-“Đặt ý là muốn khởi một ý niệm trở thành, khởi một ý niệm sở hữu sau đó thì buông.
+“**Đặt ý** là muốn khởi một ý niệm trở thành, khởi một ý niệm sở hữu sau đó thì buông.
 Bởi vì không tìm thì nó sẽ có. Còn tìm thì nó sẽ biến mất.
 
 Trí tuệ Vô Sư Trí cũng như vậy.

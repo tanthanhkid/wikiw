@@ -15,4 +15,4 @@ categories: [""]
 
 ## Khái Niệm
 
-“”
+**Hình ảnh tâm trí** là những hình ảnh được lưu giữ qua quá trình huân tập Nghe - Thấy - Nói - Biết thông qua lớp Tánh, lớp Tình của con người.

@@ -42,8 +42,8 @@ lesson:
     <!-- <p style="text-align: left; font-size: 18px; line-height: 1.6;"> -->
   <p style="text-align: left;">
 
-**THÔNG THÁI, KHÔN NGOAN, UYÊN BÁC** <br>
-
+**Đang trong quá trình xây dựng và phát triển!** <br>
+<!-- 
 **Thông thái:** Là người có năng lực xử lý vấn đề của thực tại.
 
 **Khôn ngoan:** Là người biết ứng dụng hoặc biết thuận theo quy luật tự nhiên, quy luật xã hội để đạt mục tiêu cuộc đời.
@@ -136,7 +136,7 @@ Vui vẻ
 
 Tin tưởng 
 
-Nhẹ nhàng
+Nhẹ nhàng -->
 
 
 
@@ -286,4 +286,4 @@ Nhẹ nhàng
 <!-- - [1.Trọng Điểm Tri Thức](../../KHAI-NIEM-NGUON/tvhl-nguyen-ly-vong-tri-thuc/trong-tam-tri-thuc) -->
 - [1.Trọng Điểm Nhận Thức](../../KHAI-NIEM-NGUON/tvhl-giau-tri-tue/trong-diem-nhan-thuc)
 
-- [2.Trọng Điểm Tri Thức](../../KHAI-NIEM-NGUON/tvhl-giau-tri-tue/trong-diem-nhan-thuc)
+- [2.Trọng Điểm Tri Thức](../../KHAI-NIEM-NGUON/tvhl-giau-tri-tue/trong-tam-tri-thuc)

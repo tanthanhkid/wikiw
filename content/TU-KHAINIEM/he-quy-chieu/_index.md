@@ -15,4 +15,5 @@ categories: ["TVHL Tam giác hiện thực"]
 
 ## Khái Niệm
 
-“Đang trong quá trình bổ sung!”
+**- Hệ quy chiếu:** là khái niệm nguồn của nguồn, khái niệm nguồn sơ khai nền tảng, từ đó giúp chúng ta phát triển thêm những khái niệm nguồn khác.
+**- Hệ quy chiếu chuẩn:** là khái niệm nguồn của nguồn, từ đó giúp chúng ta phát triển thêm những khái niệm nguồn có lợi.

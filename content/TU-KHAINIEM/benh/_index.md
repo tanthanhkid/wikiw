@@ -15,4 +15,6 @@ categories: [""]
 
 ## Khái Niệm
 
-“Đang trong quá trình bổ sung!”
+Gồm:
+Thân bệnh, tâm bệnh, nghiệp bệnh.
+

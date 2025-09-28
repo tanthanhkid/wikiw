@@ -16,5 +16,5 @@ categories: ["TVHL Giàu Trí tuệ"]
 ## Khái Niệm
 
 “
-Khoái lạc: là trạng thái cảm xúc nội tâm khi thoả mãn nhất thời Tham và Tưởng về Tài, Sắc, Danh, Thực và Thuỳ.
+**Khoái lạc:** là trạng thái cảm xúc nội tâm khi thoả mãn nhất thời Tham và Tưởng về Tài, Sắc, Danh, Thực và Thuỳ.
 ”
