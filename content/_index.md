@@ -64,14 +64,5 @@ Tất cả tài liệu đều miễn phí và có thể truy cập mọi lúc, m
 - **Nội dung tập trung** và dễ hiểu
 - **Hướng dẫn từng bước** chi tiết
 
-## 🤝 Đóng góp 
-
-Chúng tôi hoan nghênh mọi đóng góp để cải thiện tài liệu. Hãy tham gia cộng đồng của chúng tôi!
-
-- **GitHub**: [github.com/happymarket/docs](https://github.com/happymarket/docs)
-- **Email**: docs@happymarket.com
-- **LinkedIn**: [linkedin.com/company/happymarket](https://linkedin.com/company/happymarket)
-
----
 
 **Bắt đầu hành trình phát triển nội tâm của bạn ngay hôm nay!** 🚀

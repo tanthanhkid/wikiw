@@ -423,7 +423,13 @@ body[data-page*="tu-khainiem"] .dark-mode-toggle {
 
 @media (max-width: 480px) {
     .banner-carousel {
-        height: 220px;
+        height: 180px;
+    }
+}
+
+@media (max-width: 450px) {
+    .banner-carousel {
+        height: 150px;
     }
 }
 
@@ -451,6 +457,43 @@ body[data-page*="tu-khainiem"] .dark-mode-toggle {
     transition: opacity 1s ease-in-out;
 }
 
+/* Responsive banner image heights */
+@media (max-width: 1200px) {
+    .banner-img {
+        height: 480px !important;
+    }
+}
+
+@media (max-width: 1024px) {
+    .banner-img {
+        height: 420px !important;
+    }
+}
+
+@media (max-width: 768px) {
+    .banner-img {
+        height: 350px !important;
+    }
+}
+
+@media (max-width: 640px) {
+    .banner-img {
+        height: 280px !important;
+    }
+}
+
+@media (max-width: 480px) {
+    .banner-img {
+        height: 180px !important;
+    }
+}
+
+@media (max-width: 450px) {
+    .banner-img {
+        height: 150px !important;
+    }
+}
+
 .banner-img.active {
     opacity: 1;
 }
@@ -476,6 +519,7 @@ body[data-page*="tu-khainiem"] .dark-mode-toggle {
   z-index: 10;
   width: auto;
   max-width: 100%;
+  margin-bottom: 10%;
 }
 
 /* Responsive dots positioning */
@@ -496,21 +540,28 @@ body[data-page*="tu-khainiem"] .dark-mode-toggle {
 @media (max-width: 768px) {
   .banner-dots {
     bottom: 8px;
-    gap: 4px;
+    gap: 6px;
   }
 }
 
 @media (max-width: 640px) {
   .banner-dots {
     bottom: 6px;
-    gap: 3px;
+    gap: 6px;
   }
 }
 
 @media (max-width: 480px) {
   .banner-dots {
     bottom: 4px;
-    gap: 2px;
+    gap: 6px;
+  }
+}
+
+@media (max-width: 450px) {
+  .banner-dots {
+    bottom: 4px;
+    gap: 6px;
   }
 }
 
@@ -541,22 +592,29 @@ body[data-page*="tu-khainiem"] .dark-mode-toggle {
 
 @media (max-width: 768px) {
   .banner-dots .dot {
-    height: 6px;
-    width: 6px;
+    height: 8px;
+    width: 8px;
   }
 }
 
 @media (max-width: 640px) {
   .banner-dots .dot {
-    height: 5px;
-    width: 5px;
+    height: 8px;
+    width: 8px;
   }
 }
 
 @media (max-width: 480px) {
   .banner-dots .dot {
-    height: 4px;
-    width: 4px;
+    height: 8px;
+    width: 8px;
+  }
+}
+
+@media (max-width: 450px) {
+  .banner-dots .dot {
+    height: 8px;
+    width: 8px;
   }
 }
 
@@ -644,6 +702,48 @@ body[data-page*="tu-khainiem"] .dark-mode-toggle {
     }
 }
 
+/* Mobile <450px - Fix lesson cards to be square and beautiful */
+@media (max-width: 450px) {
+    .bai-hoc-grid {
+        margin: 0px 6px;
+        padding: 0 1px;
+        gap: 0.75rem;
+    }
+    
+    .bai-hoc-grid .lesson-card {
+        aspect-ratio: 1;
+        min-height: 200px;
+        max-height: 200px;
+        width: 100%;
+        border-radius: 8px;
+    }
+    
+    .bai-hoc-grid .lesson-card .p-6 {
+        padding: 0.75rem;
+    }
+    
+    .bai-hoc-grid .lesson-card h2 {
+        font-size: 1rem;
+        line-height: 1.4;
+        margin-bottom: 0.5rem;
+    }
+    
+    .bai-hoc-grid .lesson-card p {
+        font-size: 0.85rem;
+        line-height: 1.4;
+        margin-bottom: 0.75rem;
+    }
+    
+    .bai-hoc-grid .lesson-card .flex {
+        font-size: 0.8rem;
+    }
+    
+    .bai-hoc-grid .lesson-card .flex svg {
+        width: 1rem;
+        height: 1rem;
+    }
+}
+
 @media (min-width: 769px) and (max-width: 1023px) {
     .bai-hoc-grid {
         grid-template-columns: repeat(2, 1fr);
@@ -717,7 +817,7 @@ body[data-page*="tu-khainiem"] .dark-mode-toggle {
     }
     
     .bai-hoc-grid .lesson-card .p-6 {
-        padding: 1.25rem;
+        padding: 0px;
     }
     
     .bai-hoc-grid .lesson-card h2 {
