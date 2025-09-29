@@ -370,13 +370,61 @@ body[data-page*="tu-khainiem"] .dark-mode-toggle {
     top: 6px;
 }
 
+/* Override max-w-4xl for banner container */
+.max-w-4xl {
+    max-width: none !important;
+    padding-top: 0.5rem !important;
+}
+
 /* Banner Carousel Styles */
 .banner-carousel {
     width: 100%;
-    height: 400px;
+    height: 530px;
     position: relative;
     overflow: hidden;
-    margin-bottom: 2rem;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    margin-left: 0;
+    margin-right: 0;
+    max-width: none;
+    left: 0;
+    right: 0;
+}
+
+/* Responsive banner heights */
+@media (max-width: 1200px) {
+    .banner-carousel {
+        height: 480px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .banner-carousel {
+        height: 420px;
+        width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+        left: 0;
+        right: 0;
+    }
+}
+
+@media (max-width: 768px) {
+    .banner-carousel {
+        height: 350px;
+    }
+}
+
+@media (max-width: 640px) {
+    .banner-carousel {
+        height: 280px;
+    }
+}
+
+@media (max-width: 480px) {
+    .banner-carousel {
+        height: 220px;
+    }
 }
 
 .banner-container {
@@ -397,8 +445,8 @@ body[data-page*="tu-khainiem"] .dark-mode-toggle {
     top: 0;
     left: 0;
     width: 100%;
-    height: 380px !important;
-    object-fit: contain;
+    height: 530px !important;
+    object-fit: cover;
     opacity: 0;
     transition: opacity 1s ease-in-out;
 }
@@ -416,7 +464,7 @@ body[data-page*="tu-khainiem"] .dark-mode-toggle {
     gap: 10px;
 } */
 
-/* /* Mặc định hiện dots */
+/* Mặc định hiện dots */
 .banner-dots {
   position: absolute;
   bottom: 15px;
@@ -425,15 +473,46 @@ body[data-page*="tu-khainiem"] .dark-mode-toggle {
   display: flex;
   justify-content: center;
   gap: 8px;
+  z-index: 10;
+  width: auto;
+  max-width: 100%;
 }
 
-/* Khi màn hình nhỏ hơn 700px thì ẩn */
-@media (max-width: 700px) {
+/* Responsive dots positioning */
+@media (max-width: 1200px) {
   .banner-dots {
-    display: none;
+    bottom: 12px;
+    gap: 6px;
   }
 }
- */
+
+@media (max-width: 1024px) {
+  .banner-dots {
+    bottom: 10px;
+    gap: 5px;
+  }
+}
+
+@media (max-width: 768px) {
+  .banner-dots {
+    bottom: 8px;
+    gap: 4px;
+  }
+}
+
+@media (max-width: 640px) {
+  .banner-dots {
+    bottom: 6px;
+    gap: 3px;
+  }
+}
+
+@media (max-width: 480px) {
+  .banner-dots {
+    bottom: 4px;
+    gap: 2px;
+  }
+}
 
 .banner-dots .dot {
   height: 12px;
@@ -443,6 +522,42 @@ body[data-page*="tu-khainiem"] .dark-mode-toggle {
   display: inline-block;
   cursor: pointer;
   transition: background 0.3s;
+}
+
+/* Responsive dot sizes */
+@media (max-width: 1200px) {
+  .banner-dots .dot {
+    height: 10px;
+    width: 10px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .banner-dots .dot {
+    height: 8px;
+    width: 8px;
+  }
+}
+
+@media (max-width: 768px) {
+  .banner-dots .dot {
+    height: 6px;
+    width: 6px;
+  }
+}
+
+@media (max-width: 640px) {
+  .banner-dots .dot {
+    height: 5px;
+    width: 5px;
+  }
+}
+
+@media (max-width: 480px) {
+  .banner-dots .dot {
+    height: 4px;
+    width: 4px;
+  }
 }
 
 .banner-dots .dot.active {
@@ -465,3 +580,186 @@ body[data-page*="tu-khainiem"] .dark-mode-toggle {
 .dot:hover {
     background-color: rgba(255, 255, 255, 0.8);
 }
+
+/* Lesson Cards Styling */
+.lesson-card {
+    aspect-ratio: 1;
+    min-height: 180px;
+    max-height: 180px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.lesson-card .p-6 {
+    padding: 0.75rem;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.lesson-card h2 {
+    font-size: 0.875rem;
+    line-height: 1.3;
+    margin-bottom: 0.375rem;
+}
+
+.lesson-card p {
+    font-size: 0.75rem;
+    line-height: 1.3;
+    margin-bottom: 0.5rem;
+    flex-grow: 1;
+}
+
+.lesson-card .flex {
+    margin-top: auto;
+    font-size: 0.75rem;
+}
+
+.lesson-card .flex svg {
+    width: 0.875rem;
+    height: 0.875rem;
+}
+
+/* Bai Hoc Grid - Centered and Responsive */
+.bai-hoc-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+    max-width: 1000px;
+    margin: 0px 120px !important;
+    justify-content: center;
+}
+
+/* Mobile responsive - Stack vertically with padding */
+@media (max-width: 768px) {
+    .bai-hoc-grid {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+        margin: 0px 16px;
+        padding: 0 8px;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1023px) {
+    .bai-hoc-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1.5rem;
+        margin: 0px 40px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .bai-hoc-grid {
+        grid-template-columns: repeat(3, 1fr);
+        gap: 2.5rem;
+    }
+}
+
+/* Enhanced Lesson Cards for Bai Hoc Grid */
+.bai-hoc-grid .lesson-card {
+    aspect-ratio: 1;
+    min-height: 200px;
+    max-height: 200px;
+    border-radius: 12px;
+    overflow: hidden;
+    transition: all 0.3s ease;
+}
+
+.bai-hoc-grid .lesson-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+}
+
+.bai-hoc-grid .lesson-card .p-6 {
+    padding: 1rem;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.bai-hoc-grid .lesson-card h2 {
+    font-size: 1rem;
+    line-height: 1.4rem;
+    margin-bottom: 0.75rem;
+    color: #f97316;
+    font-weight: 600;
+}
+
+.bai-hoc-grid .lesson-card p {
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    margin-bottom: 0.75rem;
+    color: #6b7280;
+    flex-grow: 1;
+}
+
+.bai-hoc-grid .lesson-card .flex {
+    margin-top: auto;
+    font-size: 0.875rem;
+}
+
+.bai-hoc-grid .lesson-card .flex svg {
+    width: 1rem;
+    height: 1rem;
+}
+
+/* Mobile responsive for lesson cards */
+@media (max-width: 768px) {
+    .bai-hoc-grid .lesson-card {
+        aspect-ratio: auto;
+        min-height: auto;
+        max-height: none;
+        border-radius: 8px;
+    }
+    
+    .bai-hoc-grid .lesson-card .p-6 {
+        padding: 1.25rem;
+    }
+    
+    .bai-hoc-grid .lesson-card h2 {
+        font-size: 1.125rem;
+        line-height: 1.5rem;
+        margin-bottom: 1rem;
+    }
+    
+    .bai-hoc-grid .lesson-card p {
+        font-size: 0.9rem;
+        line-height: 1.4rem;
+        margin-bottom: 1rem;
+    }
+    
+    .bai-hoc-grid .lesson-card .flex {
+        font-size: 0.9rem;
+    }
+    
+    .bai-hoc-grid .lesson-card:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
+    }
+    
+    /* Mobile responsive for container and header */
+    .container {
+        padding-left: 12px;
+        padding-right: 12px;
+    }
+    
+    .container h1 {
+        font-size: 1.75rem;
+        line-height: 2rem;
+        margin-bottom: 1rem;
+    }
+    
+    .container p {
+        font-size: 1rem;
+        line-height: 1.5rem;
+    }
+}
+
+
+
+
+

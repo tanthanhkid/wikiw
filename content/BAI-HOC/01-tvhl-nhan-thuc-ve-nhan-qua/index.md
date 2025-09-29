@@ -21,7 +21,7 @@ lesson:
     </h2>
     <a href="\" style="display: block; text-align: center;">
       <div style="border: 1px solid #fff; border-radius: 8px; padding: 8px; background: #fff;">
-        <img src="/images/hinh119a.png" alt="Hình 3"
+        <img src="http://convoi.com.vn/wp-content/uploads/2025/09/hinh119a.png" alt="Hình 3"
              style="width: 100%; height: 200px; object-fit: contain; border-radius: 4px; padding:10px;">
       </div>
     </a>

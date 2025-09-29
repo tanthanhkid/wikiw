@@ -30,12 +30,15 @@ lesson:
     <h2 style="text-align: center; font-weight: bold; font-size: 22px; margin-bottom: 12px;">
       Khái Niệm
     </h2>
-  <p style="text-align: left;">
+    <p style="text-align: left; font-weight: bold;">
+    *Đang trong quá trình xây dựng và phát triển!
+    </p>
+  </div>
 
-**Đang trong quá trình xây dựng và phát triển!** <br>
+</div>
 
 <h2 style="text-align: center; font-weight: bold; font-size: 22px; margin-bottom: 12px;">
-       Khái Niệm Liên Quan
+  Khái Niệm Liên Quan
 </h2>
 
 <table style="border-collapse: collapse; width: 100%; text-align: center; font-family: Arial, sans-serif;">
@@ -56,9 +59,9 @@ lesson:
       <a href="\" style="text-decoration: none; color: blue; font-weight: bold;">QUY LUẬT CHUYỂN HOÁ</a>
     </td>
   </tr>
-
 </table>
 
+<br>
 
 <!-- - [1.Trọng Điểm Tri Thức](../../KHAI-NIEM-NGUON/tvhl-nguyen-ly-vong-tri-thuc/trong-tam-tri-thuc) -->
 - [1.Trọng Điểm Nhận Thức](../../KHAI-NIEM-NGUON/tvhl-quy-luat-thu-hut-anh-huong-gia-tri-chuyen-hoa/trong-diem-nhan-thuc)

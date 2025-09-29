@@ -157,6 +157,8 @@ weight: 1
 | [Nhà quản trị toàn năng](nha-quan-tri-toan-nang/) | |
 | [Nhân cách](nhan-cach/) | Nhân cách: của một người là tập hợp những trạng thái cảm xúc, trạng thái nhận thức bên trong nội tâm biểu hiện thông qua hình ảnh tâm trí và giá trị của người đó đối với bản thân và đối với mối quan hệ xã hội... |
 | [Nhân cách niềm tin](nhan-cach-niem-tin/) | |
+| [Bai Hoc Test](bai-hoc-test/) | Đây là bài học test được tạo qua API. Nội dung này sẽ được lưu trong file _index.md và có thể truy cập qua URL. |
+| [Test1](test1/) | Đây là nội dung test cho từ vựng - khái niệm test1. Nội dung này sẽ được lưu trong file _index.md và có thể truy cập qua URL. |
 
 
 </div>
@@ -240,6 +242,26 @@ document.addEventListener("DOMContentLoaded", function () {
            <span>Trang ${page} / ${Math.ceil(rows.length / perPage)}</span>
            <button onclick="changePage(1)">Sau »</button>
          </div>`;
+         
+    // Commented out test content:
+    /*
+         || [Bai Hoc Test](bai-hoc-test/) | Đây là bài học test được tạo qua API. Nội dung này... |
+||| [Test 2](test-2/) | Đây là test 2 với tên có khoảng trắng. Slug sẽ đượ... |
+||| [Test@#$%^&*()](test/) | Đây là test với ký tự đặc biệt. Slug sẽ được làm s... |
+||| [Từ Vựng Tiếng Việt](tu-vung-tieng-viet/) | Đây là test với dấu tiếng Việt. Slug sẽ được chuyể... |
+||| [Test 3](test-3/) | Đây là test 3 với loading chi tiết và log... |
+||| [test 1a](test-1a/) | bài test 1 a... |
+||| [test 1b](test-1b/) | bài test 1 b với script mới... |
+||| [test 1c](test-1c/) | bài test 1 c với script đơn giản... |
+||| [test 1d](test-1d/) | bài test 1 d với script cuối cùng... |
+||| [test 1e](test-1e/) | bài test 1 e với script js call... |
+||| [test 1aa](test-1aa/) | Nội dung 1aa... |
+||| [test 1bb](test-1bb/) | Nội dung 1bb với script cuối cùng... |
+||| [test 1cc](test-1cc/) | Nội dung 1cc với script ultimate... |
+||| [test 1dd](test-1dd/) | Nội dung 1dd với script ultimate final... |
+||| [test 1ee](test-1ee/) | Nội dung 1ee với script ultimate final working... |
+    */
+   
 
     document.getElementById("table-container").innerHTML = html;
   }

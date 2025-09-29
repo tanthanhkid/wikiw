@@ -28,7 +28,7 @@ lesson:
     </h2>
     <a href="\" style="display: block; text-align: center;">
       <div style="border: 1px solid #fff; border-radius: 8px; padding: 8px; background: #fff;">
-        <img src="/images/hinh16a.png" alt="Hình 3"
+        <img src="http://convoi.com.vn/wp-content/uploads/2025/09/hinh16a.png" alt="Hình 3"
              style="width: 100%; height: 200px; object-fit: contain; border-radius: 4px; padding:10px;">
       </div>
     </a>
@@ -56,20 +56,20 @@ lesson:
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: flex-start;">
   <a href="\" style="flex: 1 1 calc(25% - 12px); max-width: calc(25% - 12px); text-align: center;">
     <div style="border: 1px solid #fff; border-radius: 8px; padding: 8px; background: #fff;">
-      <img src="/images/hinh3a.png" alt="Hình 3"
+      <img src="http://convoi.com.vn/wp-content/uploads/2025/09/hinh3a.png" alt="Hình 3"
            style="width: 100%; height: 200px; object-fit: contain; border-radius: 4px; padding:10px;">
     </div>
   </a>
 
   <a href="\" style="flex: 1 1 calc(25% - 12px); max-width: calc(25% - 12px); text-align: center;">
     <div style="border: 1px solid #fff; border-radius: 8px; padding: 8px; background: #fff;">
-      <img src="/images/hinh17a.png" alt="Hình 1"
+      <img src="http://convoi.com.vn/wp-content/uploads/2025/09/hinh17a.png" alt="Hình 1"
            style="width: 100%; height: 200px; object-fit: contain; border-radius: 4px; padding:10px;">
     </div>
   </a>
   <a href="\" style="flex: 1 1 calc(25% - 12px); max-width: calc(25% - 12px); text-align: center;">
     <div style="border: 1px solid #fff; border-radius: 8px; padding: 8px; background: #fff;">
-      <img src="/images/hinh18a.png" alt="Hình 2"
+      <img src="http://convoi.com.vn/wp-content/uploads/2025/09/hinh18a.png" alt="Hình 2"
            style="width: 100%; height: 200px; object-fit: contain; border-radius: 4px; padding:10px;">
     </div>
   </a>
