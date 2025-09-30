@@ -429,7 +429,7 @@ body[data-page*="tu-khainiem"] .dark-mode-toggle {
 
 @media (max-width: 450px) {
     .banner-carousel {
-        height: 150px;
+        height: 130px;
     }
 }
 
@@ -490,7 +490,7 @@ body[data-page*="tu-khainiem"] .dark-mode-toggle {
 
 @media (max-width: 450px) {
     .banner-img {
-        height: 150px !important;
+        height: 130px !important;
     }
 }
 

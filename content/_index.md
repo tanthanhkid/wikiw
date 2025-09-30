@@ -7,16 +7,15 @@ type: "home"
 tableOfContents: true
 ---
 
+<!-- 
 # Chào mừng đến với HappyMarketDocs
 
 **HappyMarketDocs** là nguồn tài liệu toàn diện và đáng tin cậy về phát triển nội tâm, huấn luyện tư vấn và phát triển bản thân. Chúng tôi cung cấp kiến thức chuyên sâu từ A-Z để giúp bạn phát triển toàn diện và thành công trong cuộc sống.
 
 ## 🚀 Bắt đầu ngay hôm nay
-
 Dù bạn là người mới bắt đầu hành trình phát triển bản thân hay đã có kinh nghiệm, chúng tôi có tài liệu phù hợp cho mọi cấp độ:
 
 ### 📚 Tài liệu chính
-
 - **[Khái niệm nguồn](/khai-niem-nguon/)** - Bộ khái niệm cốt lõi cho tư vấn & huấn luyện nội tâm
   - [Quy luật](/khai-niem-nguon/quy-luật/) - 5 quy luật cơ bản
   - [Nguyên lý](/khai-niem-nguon/nguyên-lý/) - 4 nguyên lý nền tảng
@@ -35,7 +34,6 @@ Dù bạn là người mới bắt đầu hành trình phát triển bản thân
 - **[Hình ảnh](/hinh/)** - Tài liệu hình ảnh minh họa và trực quan
 
 ## 💡 Tại sao chọn HappyMarketDocs?
-
 ### ✅ Nội dung chuyên sâu
 Tài liệu được biên soạn bởi các chuyên gia có kinh nghiệm thực tế trong lĩnh vực tư vấn và huấn luyện nội tâm.
 
@@ -49,7 +47,6 @@ Giao diện thân thiện, tìm kiếm nhanh chóng và điều hướng trực 
 Tất cả tài liệu đều miễn phí và có thể truy cập mọi lúc, mọi nơi.
 
 ## 🎯 Đối tượng độc giả
-
 - **Chuyên gia tư vấn** - Tài liệu tham khảo chuyên nghiệp
 - **Huấn luyện viên** - Hướng dẫn phương pháp và kỹ năng
 - **Người muốn phát triển bản thân** - Tìm hiểu cách cải thiện cuộc sống
@@ -57,12 +54,11 @@ Tất cả tài liệu đều miễn phí và có thể truy cập mọi lúc, m
 - **Nhà trị liệu** - Thông tin để hỗ trợ khách hàng
 
 ## 📈 Thống kê
-
 - **100+** khái niệm và từ chuyên môn
 - **4** nhóm khóa học chính
 - **15** nhóm khái niệm nguồn
 - **Nội dung tập trung** và dễ hiểu
 - **Hướng dẫn từng bước** chi tiết
 
-
 **Bắt đầu hành trình phát triển nội tâm của bạn ngay hôm nay!** 🚀
+-->
