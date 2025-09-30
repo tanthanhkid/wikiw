@@ -484,7 +484,7 @@ body[data-page*="tu-khainiem"] .dark-mode-toggle {
 
 @media (max-width: 480px) {
     .banner-img {
-        height: 180px !important;
+        height: 130px !important;
     }
 }
 
